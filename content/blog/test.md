@@ -1,9 +1,9 @@
 ---
-path: test
-date: 2020-06-08T15:11:04.875Z
-title: Test
+path: whistler
+date: 2020-07-20T15:11:04.875Z
+title: Mountain Biking Whistler
 description: test
 ---
-testing
+Oh Canada
 
-![](../assets/mountain-bike-trails-whistler.jpg "testing image")
+![](../assets/canada_weed_flag.svg "canada and weed are alright with me" style="width:200px")
