@@ -3,11 +3,10 @@ module.exports = {
     // edit below
     title: `Jackalope Adventures Personal Blog`,
     author: `Corey Smaller`,
-    description: `Jackalope Adventures personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://jackalopeadventures.com/`,
+    description: `A personal blog with styled components, dark mode, and Netlify CMS.`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `jackalopeadventures`,
-      instagram: `jackalopeadventures`
+      instagram: `jackalopeadventures`,
     },
   },
   plugins: [
@@ -79,14 +78,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jackalope Adventures Blog`,
-        short_name: `Jackalope Adventures`,
+        name: `Jackalope Blog`,
+        short_name: `Jackalope`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/jackalopeLogo.jpg`,
+        icon: `content/assets/jackalopelogo.jpg`,
       },
     },
     {
