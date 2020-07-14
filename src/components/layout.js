@@ -4,76 +4,75 @@ import styled from "styled-components"
 
 import { rhythm, scale } from "../utils/typography"
 
-export default function Layout(props) {
-  
-    const { location, title, children } = props
-    const rootPath = `${__PATH_PREFIX__}/`
-    const blogPath = `${__PATH_PREFIX__}/blog/`
-    let header
+const LayoutContainer = styled.div`
 
-    if (location.pathname === rootPath || location.pathname === blogPath) {
-      header = (
-        <h1
+  margin-left: auto;
+  margin-right: auto;
+`;
+
+export default function Layout(props) {
+
+  const { location, title, children, background } = props
+  const rootPath = `${__PATH_PREFIX__}/`
+  const blogPath = `${__PATH_PREFIX__}/blog/`
+  let header
+
+  if (location.pathname === rootPath || location.pathname === blogPath) {
+    header = (
+      <h1
+        style={{
+          ...scale(1.5),
+          marginBottom: rhythm(1.5),
+          marginTop: 0,
+        }}
+      >
+        <Link
           style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
           }}
+          to={location.pathname === blogPath ? `/` : `/`}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={location.pathname === blogPath ? `/` : `/`}
-          >
-            {title}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/blog/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      )
-    }
-    return (
-      <Wrapper>
-        <div
-          style={{
-            marginLeft: `auto`,
-            marginRight: `auto`,
-            maxWidth: rhythm(24),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          }}
-        >
-          <header>{header}</header>
-          <main>{children}</main>
-        </div>
-        <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </Footer>
-      </Wrapper>
+          {title}
+        </Link>
+      </h1>
     )
-  
+  } else {
+    header = (
+      <h3
+        style={{
+          fontFamily: `Montserrat, sans-serif`,
+          marginTop: 0,
+        }}
+      >
+        <Link
+          style={{
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
+          }}
+          to={`/blog/`}
+        >
+          {title}
+        </Link>
+      </h3>
+    )
+  }
+  return (
+    <Wrapper className="row">
+      <LayoutContainer>
+        <header>{header}</header>
+        <main>{children}</main>
+      </LayoutContainer>
+      <Footer>
+        © {new Date().getFullYear()}, Built with
+          {` `}
+        <a href="https://www.gatsbyjs.org">Gatsby</a>
+      </Footer>
+    </Wrapper>
+  )
+
 }
 
 const Wrapper = styled.div`
