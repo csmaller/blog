@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Jackalope Adventures Personal Blog`,
+    author: `Corey Smaller`,
+    description: `Jackalope Adventures personal blog with styled components, dark mode, and Netlify CMS.`,
+    siteUrl: `https://jackalopeadventures.com/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `jackalopeadventures`,
+      instagram: `jackalopeadventures`
     },
   },
   plugins: [
@@ -78,14 +79,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jackalope Blog`,
-        short_name: `GatsbyJS`,
+        name: `Jackalope Adventures Blog`,
+        short_name: `Jackalope Adventures`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/jackalopeLogo.jpg`,
       },
     },
     {
