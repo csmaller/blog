@@ -4,9 +4,9 @@ import styled from "styled-components"
 
 import { rhythm, scale } from "../utils/typography"
 
-class Layout extends React.Component {
-  render() {
-    const { location, title, children } = this.props
+export default function Layout(props) {
+  
+    const { location, title, children } = props
     const rootPath = `${__PATH_PREFIX__}/`
     const blogPath = `${__PATH_PREFIX__}/blog/`
     let header
@@ -73,7 +73,7 @@ class Layout extends React.Component {
         </Footer>
       </Wrapper>
     )
-  }
+  
 }
 
 const Wrapper = styled.div`
@@ -85,4 +85,4 @@ const Footer = styled.footer`
   margin: 24px;
 `
 
-export default Layout
+

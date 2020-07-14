@@ -13,14 +13,11 @@ class IndexPage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`blog`, `coreysmaller`, `corey smaller`, `rage against the supremes`]}
+          keywords={[`jackalope adventures`, `jackalope`, `backcountry skiing`, `utah ski touring`]}
         />
        
         <h1>
-          Hey people welcome to my Site!
-          <span role="img" aria-label="wave emoji">
-            👋
-          </span>
+          Welcome to Jackalope Adventures
         </h1>
        
         <Link to="/blog/">
