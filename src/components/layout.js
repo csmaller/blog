@@ -1,5 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link } from "gatsby";
+import "../../style.scss";
+
 import styled from "styled-components"
 
 import { rhythm, scale } from "../utils/typography"
@@ -17,15 +19,9 @@ export default function Layout(props) {
   const blogPath = `${__PATH_PREFIX__}/blog/`
   let header
 
-  if (location.pathname === rootPath || location.pathname === blogPath) {
+ // if (location.pathname === rootPath || location.pathname === blogPath) {
     header = (
-      <h1
-        style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
-        }}
-      >
+      <h1 className="mt-1" >
         <Link
           style={{
             boxShadow: `none`,
@@ -38,34 +34,38 @@ export default function Layout(props) {
         </Link>
       </h1>
     )
-  } else {
-    header = (
-      <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
-          }}
-          to={`/blog/`}
-        >
-          {title}
-        </Link>
-      </h3>
-    )
-  }
+  // } else {
+  //   header = (
+  //     <h3
+  //       style={{
+  //         fontFamily: `Montserrat, sans-serif`,
+  //         marginTop: 0,
+  //       }}
+  //     >
+  //       <Link
+  //         style={{
+  //           boxShadow: `none`,
+  //           textDecoration: `none`,
+  //           color: `inherit`,
+  //         }}
+  //         to={`/blog/`}
+  //       >
+  //         {title}
+  //       </Link>
+  //     </h3>
+  //   )
+  // }
   return (
-    <Wrapper className="row">
-      <LayoutContainer>
-        <header>{header}</header>
-        <main>{children}</main>
+    <Wrapper >
+      <LayoutContainer >
+        <div className="row d-flex justify-content-center">
+          <header className="col-12">{header}</header>
+        </div>
+        <div className="row">
+          <main>{children}</main>
+        </div>
       </LayoutContainer>
-      <Footer>
+      <Footer className="row">
         © {new Date().getFullYear()}, Built with
           {` `}
         <a href="https://www.gatsbyjs.org">Gatsby</a>

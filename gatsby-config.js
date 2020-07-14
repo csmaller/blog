@@ -33,16 +33,6 @@ module.exports = {
         name: `assets`,
       },
     },
-
-    {
-        resolve: `gatsby-plugin-mdx`,
-        options: {
-          defaultLayouts: {
-            default: require.resolve("./src/components/default-page-layout.js"),
-          },
-        },
-      },
-
     {
       resolve: 'gatsby-plugin-mdx',
       options: {
