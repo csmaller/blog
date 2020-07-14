@@ -14,8 +14,10 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sass`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-typescript`,
     `gatsby-plugin-feed-mdx`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -31,11 +33,24 @@ module.exports = {
         name: `assets`,
       },
     },
+
+    {
+        resolve: `gatsby-plugin-mdx`,
+        options: {
+          defaultLayouts: {
+            default: require.resolve("./src/components/default-page-layout.js"),
+          },
+        },
+      },
+
     {
       resolve: 'gatsby-plugin-mdx',
       options: {
         gatsbyRemarkPlugins: [ `gatsby-remark-images` ],
         plugins: [ `gatsby-remark-images` ],
+        defaultLayouts: {
+            default: require.resolve("./src/components/layout.js"),
+          },
       }
     },
     {
