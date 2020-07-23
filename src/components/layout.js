@@ -47,7 +47,7 @@ export default function Layout(props) {
           </div>
         </LayoutContainer>
         <Footer className="align-content-center">
-          Follow us on Social Media
+          <p><a href="https://www.jackalopeadventures.com">jackalopeadventures.com &trade;</a></p>
           <SocialIcon url="https://www.facebook.com/jackalopeAdventureTouring"/>
           <SocialIcon url="https://www.instagram.com/jackalopeadventures/" />
         </Footer>
@@ -60,6 +60,7 @@ export default function Layout(props) {
 const LayoutContainer = styled.div`
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 10rem; 
 `;
 
 const HeaderContainer = styled.div`
@@ -77,15 +78,15 @@ const Wrapper = styled.div`
 `
 
 const Footer = styled.footer`
-  text-align: left;
-  margin:auto;
-  margin: 24px;
-  position:absolute;
-  bottom:0;
+  text-align:center;
+  width: 100%;
+  height: 2.5rem; 
 
   a{
     box-shadow: none;
     margin-left:10px;
+    height:30px !important;
+    width:30px !important;
   }
 `
 
