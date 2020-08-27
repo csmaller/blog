@@ -2,7 +2,7 @@
 path: on50
 date: 2020-08-27T17:35:40.174Z
 title: Reflections At 50
-description: as I turn 50 I offer some unsolicited advice to men everywhere
+description: As I turn 50 I offer some unsolicited advice to men everywhere.
 ---
 Ever since I can remember I've done things out of anger. As I get older I’m starting to recognize the thought process that can drag me down into negativity and self-sabotaging behavior. They say behind anger is fear and most of my time here on this Earth I've been angry. Not the "get in a fight scream and yell at someone” kind of angry but the steady droning anger that underlies almost every decision I've made. Spite. Jealously. Greed. Vanity. All these negative emotions are subconscious protectors of our egos. It’s letting go of the ego and accepting who you are which leads you down the path of self-awareness and grace.
 
