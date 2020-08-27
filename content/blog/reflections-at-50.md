@@ -1,5 +1,5 @@
 ---
-path: on50
+path: reflections-at-50
 date: 2020-08-27T17:35:40.174Z
 title: Reflections At 50
 description: As I turn 50 I offer some unsolicited advice to men everywhere.
