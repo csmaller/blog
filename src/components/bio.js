@@ -8,6 +8,9 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby";
 import styled from "styled-components"
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-177166710-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 function Bio() {
   return (
