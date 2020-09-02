@@ -1,11 +1,10 @@
-import React from "react"
+import React, {useEffect} from "react"
 import styled from "styled-components";
 import HeroImage from "../../content/assets/superior_rectangle.png";
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import ReactGA from 'react-ga';
 ReactGA.initialize('UA-177166710-1');
-ReactGA.pageview(window.location.pathname + window.location.search);
 
 const HeroContainer = styled.div`
   background-size: cover;
@@ -45,6 +44,12 @@ function MainContent() {
 
 }
 export default function IndexPage(props) {
+
+  useEffect(()=>{
+    if(typeof "window" !=="undefined"){
+      ReactGA.pageview(window.location.pathname + window.location.search);
+    }
+  },[])
 
   const siteTitle = "Jackalope Adventures"
 
