@@ -17,12 +17,12 @@ export default function Layout(props) {
   function Header() {
     return (
       <>
-        <div className="col-1">
+        <div className="col-lg-1 col-4">
           <Link to={location.pathname === blogPath ? `/` : `/`} >
             <img src={Logo} class="float-left" />
           </Link>
         </div>
-        <nav className="col-11 mb-4 mt-0 justify-content-left bg-primary mt-4 p-0">
+        <nav className="col-lg-11 col-8 mb-4 mt-0 justify-content-left bg-primary mt-4 p-0">
           <Link to="/" disabled={location.pathname === "/"}>
             <Button marginTop="35px">Home</Button>
           </Link>

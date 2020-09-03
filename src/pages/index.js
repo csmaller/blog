@@ -31,18 +31,23 @@ const MainContainer = styled.div`
     padding: 75px 95px 75px 70px;
     opacity: .9;
     color: white;
+
+    @media(max-width:765px){
+      width:100%;
+      padding: 10px;
+    }
   }
 `;
 
 function MainContent() {
   return (
-    
       <div id="divOverlay" data-overlay-display="True"  class="overlay bg-primary">
         <h2 class="heading2 content white" id="why_mountain_america_3">Welcome to Jackalope Adventures</h2>
       </div>
-  )
+  );
 
 }
+
 export default function IndexPage(props) {
 
   useEffect(()=>{
