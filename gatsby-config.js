@@ -4,7 +4,7 @@ module.exports = {
     title: `Jackalope Adventures Personal Blog`,
     author: `Corey Smaller`,
     description: `A personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://jackalopeadventures.com/`,
     social: {
       instagram: `jackalopeadventures`,
     },
