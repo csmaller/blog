@@ -18,7 +18,7 @@ I get up. I am short with her: "If you keep asking me this every other day you s
 
 I storm out of the room.  I go and try to sleep on the couch. She follows me and stares at me with sad eyes. It makes me more upset. I am pissed and I don't really know why.
 
-Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller at Park City Mountain.  She loves good music and plays ok guitar.  She checks off all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
+Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller at Park City Mountain.  She loves my music and plays ok guitar.  She checks off all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
 
 Welcome to relationships in the new millennium. 
 
@@ -30,15 +30,43 @@ Welcome to relationships in the new millennium.
 
 ## Chapter 2 
 
-Everyone I know who is single has ADD.  Everyone is looking for perfection.  Everyone is so fragile and needy and yet have walls up so high.  We all want our needs met but won't budge when it comes to giving.  We go on dating apps, we tell our stories over and over to strangers. We wear our false-hearts on our sleeves to appear sensitive but in reality we hide our true hearts behind barbed wire.  It's there behind angry words and fake emotion and trenches of shallow connections.  
+Everyone I know who is single has ADD.  Everyone is looking for perfection.  Everyone is so fragile and needy and yet have walls up so high.  We all want our needs met but won't budge when it comes to actually giving something back.  
 
-I am numb. I don't want to be touched but In my head I yearn for deep, meaningful connections.  I don't want to give anything away or drop the facade of happiness but I want her to open up like a flower in spring. Tell me everything. Let me feed off of you, like a parasite I prey.  I want you to want me, like the Cheap Trick song.  I want you to worship me but don't get too close. Don't expect anything in return.  I am unapproachable and not worthy of real love.   Can't you see how fucked up I am?  I am not the guy you see on stage, or joke around with on a chairlift , or have a beer with in the bar.  I'm kind, but I'm also kinda not.  I'm selfish but I can play it off with words of praise and distractions.  Eye contact and a shoulder to cry on. 
+We go on dating apps, we tell our stories over and over to strangers. We wear our false-hearts on our sleeves to appear sensitive.  Our lives on Instagram are *amazing. ah-mazing.* Everything is blessed, and I am woke, and  I just need to find my Forever Girl.
 
-## \---------
+In reality we hide our true hearts behind barbed wire.  It's there, beating away.  Try and touch it and you see it's protected behind angry words and fake emotion and trenches of shallow connections.  Try to pull it out into the light and watch me bite and snarl and defend my fragile ego. 
+
+I am numb. I don't want to be touched but In my head I replay bad 80's romantic comedies.  I yearn for deep, meaningful connections.  I don't want to give anything away or drop the facade of happiness but inversely I want her to open up, unconditionally, like a flower in spring. 
+
+Tell me everything. Let me feed off of you.  I'm a parasite.  I want you to want me, like the Cheap Trick song.  
+
+I want you to worship me but don't get too close. 
+
+Don't expect anything in return.  
+
+I am unapproachable and not worthy of real love.   
+
+Can't you see how fucked up I am?  
+
+I am not the guy you see on stage, or joke around with on a chairlift , or have a beer with in the bar.  I'm kind, but I'm also kinda not.  I'm selfish but I can pretend to be empathic with words of praise and distractions.  Eye contact and a shoulder to cry on.  I mean well, really I do.  I want to be That Guy.  I am Harry, you are Sally.   
+
+We laugh and joke and talk about our past affairs and how this one or that one really fucked me over but it has taught me things. Life lessons.  Heartbreak is real and necessary.  
+
+She was a crazy bitch who wrecked me this way or that way.  Not me. Never me. It's always the Other.  Never my decision.  How could she want me to pay for everything and get mad when I ask her where my truck is she's been borrowing to drive around with for a week?  It's not like I saw that coming!
+
+Sometimes I think I have more issues than a magazine rack. 
+
+\---------
 
 ## Chapter 3
 
-I pick relationships that are doomed to fail: the stripper with all the stereotypical stripper tendencies and addictions(check), the groupie who is 20 years younger than me (check), the Long Distance relationship (check), the narcissist, the emotionally detached, the Disappearing Woman, the Cheater, the Boring-Not-My-Type-But-Looks-Good-On-Paper, the Bisexual, the Polyamorous Wanna-Be-Woke fake ass hipster.  I set it up, I convince myself This Could Be It, then when it ultimately fails I move on quicker than a crack addict picking up a nickel.   I push it all down. Deeper and deeper. I honor my Boston Italian and Irish heritage.  I can almost hear every dead male ancestor cheering from their graves.  No emotion shown! No weakness in the armor!
+I pick relationships that are doomed to fail: the stripper with all the stereotypical stripper tendencies and addictions(check), the groupie who is 20 years younger than me with Daddy Issues (check), the Long Distance relationship (check), the narcissist, the emotionally detached, the Disappearing Woman, the Cheater, the Boring-Not-My-Type-But-Looks-Good-On-Paper-And-My-Mom-Would-Love-her, the Bisexual, the Polyamorous-Woke-Hipster.  
+
+I set it up, I convince myself This Could Be It, then when it ultimately fails I move on quicker than a crack addict picking up a nickel.   I push it all down. Deeper and deeper.
+
+ I honor my Boston Italian and Irish heritage.  I can almost hear every dead male ancestor cheering from their graves.  
+
+Show no emotion! No weaknesses in the armor!
 
 \-------------
 
@@ -152,7 +180,7 @@ I see her texts from her phone synced to her computer.  I pay it no mind since I
 
 "Whoa, he was hot. a test huh?"
 
-"Yeah he texted me last night!  Oofda"
+"Yeah he texted me last night!  Oofda!"
 
 "I need to be debriefed!"
 
