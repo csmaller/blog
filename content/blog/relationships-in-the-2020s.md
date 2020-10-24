@@ -116,17 +116,27 @@ Later she tries to maintain and repair our friendship via Likes on Facebook and 
 
 I keep telling myself I just got out of a hard relationship with someone I thought I loved.  I am fucked up because of that.  I am rebounding. I allow myself some sadness  and  a night of hard drinking and self pity.  I need attention from a beautiful woman.  I need to use someone. I need to fill this hole. To duct tape it until it stops breathing. 
 
-I met Stephanie two weeks after.. I saw her picture on social media and made a comment. Something about climbing.  This lead to a very rapid PM conversation and we both agreed we should meet right away...On my birthday.  We drank. I forgot all about Sarah...or Sarah was always there lingering in the background of the conversation.  I have quick daydreams of her finding out I'm out with this much younger, wide-eyed pretty girl and being so jealous.  I drank some more.  
+I met Stephanie two weeks later. 
 
-We camped together that weekend. Then we went to San Diego on a whim.
+ I saw her picture on social media and made a comment. Something about rock climbing in an area I have climbed before.  This lead to a very rapid PM conversation and we both agreed we should meet right away.
+
+On my birthday.  
+
+We drank. I forgot all about Sarah., or should I say Sarah was always there lingering in the background of the conversation.  I have quick daydreams of her finding out I'm out with this much younger, wide-eyed pretty girl and being so jealous.  I drank some more. 
+
+We camped together that weekend. Then we went to San Diego on a whim. I picture Sarah sitting at her kitchen table looking at my pics of me surfing in San Diego. The ocean, the sand, me smiling into the camera. 
+
+I am so happy, everything is great and easy and fun.
 
 I have never been a person who snaps at people. Like my mother I am always a pleaser. I am always entertaining and on stage.  
 
-When the trees of negativity have sprouted in my heart and the doubts and fears of being ripped apart again are still fresh in the roots I sally forth with haste.  She is beautiful and fun and 14 years younger than me.  I don't care. I want this. 
+When the trees of negativity have sprouted in my heart and the doubts and fears of being ripped apart again are still fresh in the roots I plow forward and charge the barriers.  She is beautiful and fun and 14 years younger than me. 
 
-I'm not ready but I don't want to lose this. I am selfish. I don't care about your needs and wants, really. 
+I hope I don't hurt her. She is a good person:  a kind but tough Ohio girl who lost her dad slowly due to a stroke.  She is living her Best Life. She is following her dream but sort of being dragged by the currents of life and realizing Ski Patrol doesn't pay the bills and a life living in someones basement is a real possibility. It's scary and fleeting and hard on the body and she knows it.
 
-I hope I don't hurt her. She is a good person.  a kind but tough Ohio girl who lost her dad slowly due to a stroke.  She was living her best life. Following her dream but sort of being dragged by the current of life and realizing Ski Patrol doesn't pay the bills and a life living in someones basement is a real possibility.
+I'm not ready but I don't want to lose this.  I don't care about your needs and wants. I don't care about Being Fair.  
+
+I am selfish. 
 
 ## \---------
 
