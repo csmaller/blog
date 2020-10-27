@@ -6,7 +6,7 @@ description: dating and rejection
 ---
 "Man , I had so much fun with you last night. Thanks again for the amazing time.  Let's do it again!"
 
-(heart emojii reply)
+(heart emoji reply)
 
 Then...Nothing.  
 
