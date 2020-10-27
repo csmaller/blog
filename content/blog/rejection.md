@@ -24,7 +24,7 @@ Then you realize that person was faking it.  They were suffering through your pr
 
 We've all done it right?  We've all been the Rejected and the Rejector.  You don't feel like you owe that person an explanation. I mean, you just met and he just bought you some drinks or dinner.  No need to be brutally honest and rip the band aid off. 
 
-I have actually had a date where she walked in. Took one look at me and made an excuse and left.  I was shocked and hurt and felt like a leper but at least it was immediate and we didn't waste any more time or money in something one of us wasn't interested in.
+I have actually had a date where she walked in, took one look at me and made an excuse and left.  I was shocked and hurt and felt like a leper but at least it was immediate and we didn't waste any more time or money in something one of us wasn't interested in.
 
  No, it's better to not hurt their feelings.  Right?  Do the "Slow Fade".  Tell them you need to work late all week and hopefully they get the hint.  If they don't then turn it on them:
 
