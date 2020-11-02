@@ -1,7 +1,7 @@
 ---
 path: relationships
 date: 2020-10-22T19:10:57.048Z
-title: Relationships In The 2020's
+title: Relationships
 description: relationships in the 2020s
 ---
 ## Chapter 1
