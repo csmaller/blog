@@ -4,8 +4,6 @@ date: 2020-11-11T15:53:56.426Z
 title: My Heart Belongs To You
 description: a little folksy song I wrong
 ---
-
-
 I’m so addicted this affliction
 
 Has got me wishing
@@ -18,7 +16,7 @@ But I’m not complaining
 
 Cos my heart belongs to you
 
-
+<br/><br/>
 
 It’s so alluring this absurd game
 
@@ -34,7 +32,7 @@ And im sickened
 
 because my heart belongs to you
 
-
+<br/><br/>
 
 Did you think I’d fall in line?
 
@@ -48,7 +46,7 @@ I can’t wait another day
 
 Another day
 
-
+<br/><br/>
 
 I hate to call you selfish because the backlash could lead us to ruin
 
@@ -56,6 +54,8 @@ Or misconstrued my thoughts so i bought myself some rye
 
 And drank myself blind because my heart belongs to you
 
+<br/><br/>
+
 Did you think I’d fall in line?
 
 Just Pass the time ?
@@ -68,7 +68,7 @@ I can’t wait another day
 
 Another day
 
-
+<br/><br/>
 
 You’re so demented deep depression
 
@@ -84,7 +84,7 @@ And leave this town
 
 I’m so down because my heart belongs to you
 
-
+<br/><br/>
 
 Did you think I’d fall in line?
 
@@ -98,6 +98,8 @@ I can’t wait another day
 
 Another day
 
+<br/><br/>
+
 Yet you’re so greedy
 
 I was deceived by your need to be
@@ -110,6 +112,4 @@ Yeah that money won your heart
 
 I’ve falling apart
 
-Because my
-
-Heart belongs to you
+Because my heart belongs to you
