@@ -88,9 +88,11 @@ I remember a girl I once dated chastising me for trying to learn an instrument a
 
 True I would never be Steve Vai but i never wanted to be or expected to be. Neil Young was more my game: chords and songwriting .now 28 years later I get to play to some great mid sized party crowds. Because I didn’t listen to naysayers, put the effort in, and stayed curious and inspired I am able to make my childhood fantasy come alive every other week. It’s a blessing I can’t overestimate and it’s a cornerstone of happiness in life.
 
-You can go to a lot of cool places in this world if you are curious and learn enough to get by. Learn, relearn rinse and repeat .Get better to your satisfaction.
+You can go to a lot of cool places in this world if you are curious and learn enough to get by. 
 
-Staying curious will keep you young.Just as eating right and sleeping long enough every night and physical fitness, learning new things will create new synaptic pathways in your brain.Your brain as a child hasn’t changed now that you are a growing adult/. It still needs to be nourished with nutrients in order to function .The human brain gets very good at repetition. Scientists call it “synaptic pruning”. Your pathways will prune other forks and roots and strengthen the pathway to efficiency.IMO if the human brain stops learning new things it gets stale and weak, just like muscles that aren’t used become atrophied. The old adage “you can’t teach an old dog new tricks” comes to mind. 
+Learn, relearn rinse and repeat. Get better to your satisfaction.
+
+Staying curious will keep you young. Just as eating right and sleeping long enough every night and physical fitness, learning new things will create new synaptic pathways in your brain. Your brain as a child hasn’t changed now that you are a growing adult. It still needs to be nourished with nutrients in order to function .The human brain gets very good at repetition. Scientists call it “synaptic pruning”. Your pathways will prune other forks and roots and strengthen the pathway to efficiency.IMO if the human brain stops learning new things it gets stale and weak, just like muscles that aren’t used become atrophied. The old adage “you can’t teach an old dog new tricks” comes to mind. 
 
 Taken from Huffington Post(1)
 
