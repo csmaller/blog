@@ -122,8 +122,6 @@ When the trees of negativity have sprouted in my heart and the doubts and fears 
 
 I hope I don't hurt her. She is a good person:  a kind but tough Ohio girl who lost her dad slowly due to a stroke.  She is living her Best Life. She is following her dream but sort of trying to keep her head above water while being dragged by the currents of life and realizing Ski Patrol doesn't pay the bills.   It's scary and fleeting and hard on the body and she knows it but she loves it and I respect and honor that. It's brave and tragic and beautiful.
 
-
-
 ## \---------
 
 ## Chapter 6
@@ -304,10 +302,40 @@ She turns on her heels and runs back up the big flagstone stairs back to the hou
 
 I drive the ten minutes down Lee Hill, trying to get to phone service to call my parents, to cry on their shoulders.  I need a coffee. I need to vent. I need to scream it all away. 
 
-This is not happening.   This can't be happening.  Not to me.  This is shit you see in bad movies. Not my life.  
+This is not happening.  This can't be happening.  Not to me.  This is shit you see in bad movies. Not my life.  
 
-Who does she think she is? She just lost the best thing she ever could have. Why? To fuck a stranger?  How many other strangers was she fucking around with too?  Just because I caught her once doesn't mean it wasn' the first time. I pull over half way down. I'm hyperventilating.  I'm hysterical. I feel like vomiting.  My life is completely turned upside down. No job, a cheating wife, my dog, the house in Costa Rica, the condo in Park City. Round and round in my head.  
+Who does she think she is? She just lost the best thing she ever could have. Why? To fuck a stranger?  How many other strangers was she fucking around with too?  Just because I caught her once doesn't mean it wasn't the first time. I pull over half way down. I'm hyperventilating.  I'm hysterical. I feel like vomiting.  My life is completely turned upside down. No job, a cheating wife, my dog, the house in Costa Rica, the condo in Park City. Round and round in my head.  
 
 What am I going to do? What the fuck am I going to do?
 
-TBC
+### \------------
+
+### Chapter 10
+
+I'm standing in line at my favorite coffee shop. The one where the barista used to call me Chip since I looked a bit like Chip Gaines, the Home Makeover guy on tv.  I'm mumbling to myself, teary eyed, looking down, trying to distract myself from eye contact.  Roadies sipping lattes and hipsters chatting in nooks, my barista smiles her big smile at me and immediately knows something is wrong.  I pretend to be ok.  She knows I'm not, but we are not friends, she is busy and definitely doesn't need to hear this, as juicy as it is.  I get my latte and leave the cute coffee shop for the last time. No more morning commute to Shitty Job, no more saturday morning post-ride post-yoga coffee.  I get in my car, I take a sip of my coffee and my heart explodes.  I was holding it together long enough to get my coffee. I had an eight hour drive ahead of me through I-70 ski country into the Utah desert and eventually Park City.  I had alot of time to think, to be alone.  
+
+I wail.  It feels good. I open the window and let the Colorado air hit me full on in the face, wiping my tears away for me.  I blast down route 6 towards I-70.  The first of many trips I would take that month, culminating in me and a buddy in a moving truck with all my stuff moving back to Utah with my tail between my legs, no job, no home in Boulder, Park City nor Costa Rica.  
+
+At the time I was so wrecked and so confused I remember pulling over right where route 6 can either turn right and eventually merge onto I-70 west, or go straight and merge on I-70 east.  I sit in the park n ride. All around me are skiers getting their shit together to carpool up I-70. Laughter, joking, conversations. Normal things around the hell inside of my truck.   
+
+Let's see...
+
+Turn left, drive three days to Boston.  See my family. Talk to my dad. Hug my mom.  Get my shit together.  All i have is a backpack with some clothes in it.  I could stop on Kansas City and have some ribs, stop in Nashville and listen to some music. Hit New York and get wildly drunk and throw all my cares into a bottle.
+
+Turn right and take care of business.  Push it all down. Get it out on the drive. Ski my face off and obliterate all thought.  Push it down. Work. Get Shit Done. Move on with life.
+
+I need to clean out my condo in Park City. It's under contract and will be sold in a month but they will understand right?  The single mom with two kids who bought my condo will understand and live in a La Quinta until I'm ready , right? 
+
+I turn right. I call my parents. My mom immediately knows something is wrong.  I pour my heart out to her while driving throug the Rockies.  
+
+I pass the exit for Winter Park. I tell her about Friday night. I pass the exit for Keystone and A Basin and tell her about the fight we had, about her going out with her friends.  
+
+By the time I pass Beaver Creek it is all out. I am drained. My parents are on speaker phone, stunned.  They were just in Boulder for the wedding two weeks ago. How could this have happened? How? Everything was perfect. 
+
+"it was all a lie mom. I got played"
+
+My stepfather, ever the rational one, steps in with his calm Psychologists demeanor and tone.  Everything will be ok. Let's break this down.  
+
+He tells me about his thoughts on Mary and how she is classic [Borderline Personality Disorder  ](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml).   
+
+I take it all in. I take my dads word as gospel.  I harden my heart and plan for the future. I have to get divorced or annulled.  I have to move away. My head is spinning with a soup of emotion: hatred, anger, sadness, and yes optimism.
