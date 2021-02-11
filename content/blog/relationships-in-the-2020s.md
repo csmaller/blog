@@ -326,7 +326,7 @@ Turn right and take care of business.  Push it all down. Get it out on the drive
 
 I need to clean out my condo in Park City. It's under contract and will be sold in a month but they will understand right?  The single mom with two kids who bought my condo will understand and live in a La Quinta until I'm ready , right? 
 
-I turn right. I call my parents. My mom immediately knows something is wrong.  I pour my heart out to her while driving throug the Rockies.  
+I turn right. I call my parents. My mom immediately knows something is wrong.  I pour my heart out to her while driving through the Rockies.  
 
 I pass the exit for Winter Park. I tell her about Friday night. I pass the exit for Keystone and A Basin and tell her about the fight we had, about her going out with her friends.  
 
