@@ -4,7 +4,9 @@ date: 2021-02-22T16:28:29.040Z
 title: Utah
 description: why Utah
 ---
-I first came to Utah as a tourist in 2002 with my ex who would go on to be my fiance, then my enemy, then my friend.  She convinced me while have a beer at the Bunyan Room at Loon Mountain in Lincoln, NH that I should change my yearly trip to Colorado to Utah.  
+![](../assets/arches.jpg)
+
+ first came to Utah as a tourist in 2002 with my ex who would go on to be my fiance, then my enemy, then my friend.  She convinced me while have a beer at the Bunyan Room at Loon Mountain in Lincoln, NH that I should change my yearly trip to Colorado to Utah.  
 
 "Is there good skiing there?"
 
