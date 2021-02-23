@@ -4,7 +4,7 @@ date: 2020-10-27T15:43:27.646Z
 title: Sometimes you are the Victim and sometimes you are the Victor
 description: dating and rejection in modern world
 ---
-"Man , I had so much fun with you last night. Thanks again for the amazing time. "
+"Man , I had so much fun with you last night. Thanks again for the amazing time."
 
 (heart emoji reply)
 
@@ -12,7 +12,7 @@ description: dating and rejection in modern world
 
 Then...Nothing.  
 
-Dating in the 20's: You go out with someone you met on a dating app or Facebook.  They are intimate. They tell you secrets and why they are single, past loves who have jilted them and why they are the victim and not the victor.  You get just enough intelligent conversation, just enough eye contact and physical touch.  You get a kiss at the end of the night and go home on air.
+Dating in the 2020's: You go out with someone you met on a dating app or Facebook.  They are intimate. They tell you secrets and why they are single, past loves who have jilted them and why they are the victim and not the victor.  You get just enough intelligent conversation, just enough eye contact and physical touch.  You get a kiss at the end of the night and go home on air.
 
 You think you've connected.  You think you made headway into someone's heart.  Maybe even a deeper feeling than that.  Then, the next day once the alcohol wears off they disappear.  
 
