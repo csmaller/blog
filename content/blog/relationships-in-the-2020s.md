@@ -4,7 +4,45 @@ date: 2020-10-22T19:10:57.048Z
 title: Relationships
 description: relationships in the 2020s
 ---
-## Chapter 1
+### Chapter 1
+
+Me: "Man , I had so much fun with you last night. Thanks again for the amazing time."
+
+(vague heart emoji reply)
+
+Me: "Haha, yeah Let's do it again. I would love to take you out for dinner sometime this week"
+
+Then...Nothing.  
+
+Dating in the 2020's: You go out with someone you met on a dating app or Facebook.  They are intimate. They tell you secrets and why they are single, past loves who have jilted them and why they are the victim and not the victor.  You get just enough intelligent conversation, just enough eye contact and physical touch.  You get a kiss at the end of the night and go home on air.
+
+You think you've connected.  You think you made headway into someone's heart.  Maybe even a deeper feeling than that.  Then, the next day once the alcohol wears off they disappear.  
+
+You start to get a bit depressed. You stalk their Instagram and wonder what you did wrong.  
+
+Was I too aggressive? Not aggressive enough? Not tall enough? Fit enough? Smart enough? Drove the wrong car? Didn't make enough money?
+
+Then you realize that person was faking it.  They were suffering through your presence for whatever reason: Attention. A Free Meal.  Dopamine. Sex.  To Feel Wanted.
+
+We've all done it right?  We've all been the Rejected and the Rejector.  You don't feel like you owe that person an explanation. I mean, you just met and he just bought you some drinks or dinner.  No need to be brutally honest and rip the band aid off. 
+
+I have actually had a date where she walked in, took one look at me and made an excuse and left.  I was shocked and hurt and felt like a leper but at least it was immediate and we didn't waste any more time or money in something one of us wasn't interested in.
+
+ No, it's better to not hurt their feelings.  Right?  Do the "Slow Fade".  Tell them you need to work late all week and hopefully they get the hint.  If they don't then turn it on them:
+
+"Hey what's up? I am getting the sense you aren't interested even though we talked all night and made out in my car.  I thought we had a connection?"
+
+"Whoa. Really? Dude, I have been busy!  (insert undefendable excuse here to make you feel like the asshole.  Topics include: My Son Was Sick. My Dog Was Sick.  I Was Sick.  I Was Working.  I Was Out Of Service Even Though I Was Updating Social Media.  My Phone Broke. I Was In An Accident).  I don't need this kind of person in my life."
+
+See? Now you are the asshole and they can move on knowing they are good people.  You have become part of the narrative of their next date.  You get a title and a nickname for their friends.
+
+That's ok.  Pick yourself up and dust yourself off.  You have other fish in the sea.  You have a line of men or women waiting to meet you.  It's no problem to stay shallow and date in this world, even during a pandemic. If you look good you will get dates. Period.  There is no need for intellect or empathy.  
+
+Swipe right. Connect. Disappear. Repeat. Sometimes you are the Victim and sometimes you are the Victor
+
+## \-------------
+
+## Chapter 2
 
 I toss and turn.
 
@@ -12,19 +50,17 @@ She lies next to me, mumbling into the pillow. Everything she is saying to me ma
 
 "Is everything ok with us?  Are you ok?"
 
-I get up. I am short with her: "If you keep asking me this every other day you should just go home. I don't go for this needy , clingy shit!"  
+I get up. I am short with her: "If you keep asking me this every other day you should just go home. I don't go for this needy, clingy shit!"  
 
-"Babe, why are you being like this?",  she cries, confused.
+"Babe, why are you being like this?" she cries, confused.
 
 I storm out of the room.  I go and try to sleep on the couch. She follows me and stares at me with sad eyes. It makes me more upset. I am pissed and I don't really know why.
 
-Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller and part time actress.  She loves my music and plays ok guitar.  She checks off all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
-
-Welcome to relationships in the new millennium. 
+Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller and part time actress.  She loves my music and plays ok guitar.  She checks all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
 
 ## \----------
 
-## Chapter 2
+## Chapter 3
 
 Everyone I know who is single has ADD.  Everyone is looking for perfection.  Everyone is so fragile and needy and yet have walls up so high.  We all want our needs met but won't budge when it comes to actually giving something back.  
 
@@ -48,7 +84,7 @@ She was a crazy bitch who wrecked me this way or that way.  It's not me. It's ne
 
 \---------
 
-## Chapter 3
+## Chapter 4
 
 I pick relationships that are doomed to fail: the stripper with all the stereotypical stripper tendencies and addictions, the groupie who is 20 years younger than me with Daddy Issues, the Long Distance relationship, the Narcissist, the Emotionally Detached, Not-Ready-Freshly-Divorced, the Disappearing Woman, the Cheater, the Not-My-Type-But-Looks-Good-On-Paper-And-My-Mom-Would-Love-Her, the Bisexual, the Polyamorous-Woke-Hipster.  
 
@@ -60,7 +96,7 @@ Show no emotion. No weaknesses in the armor.
 
 \-------------
 
-## Chapter 4
+## Chapter 5
 
 I knew Sarah for years and she was recently separated from her husband. She is in phenomenal shape. A person trainer obsessed with fitness, diet, supplements, her body.  
 
@@ -102,7 +138,7 @@ Later she tries to maintain and repair our friendship via Likes on Facebook and 
 
 \---------
 
-## Chapter 5
+## Chapter 6
 
 I keep telling myself I just got out of a hard relationship with someone I thought I loved.  I am fucked up because of that.  I am rebounding. I allow myself some sadness and a night of hard drinking and self pity.  I need attention from a beautiful woman.  I need to use someone. I need to fill this hole. To duct tape it until it stops breathing. 
 
@@ -124,7 +160,7 @@ I hope I don't hurt her. She is a good person:  a kind but tough Ohio girl who l
 
 ## \---------
 
-## Chapter 6
+## Chapter 7
 
 Before Sarah and Stephanie I went through a winter of getting over a failed marriage that lasted two weeks. 
 
@@ -152,7 +188,7 @@ Two weeks later it all came crashing down.
 
 ## \------------
 
-## Chapter 7
+## Chapter 8
 
 That weekend Mary and I had a fight and I was getting the proverbial cold shoulder all weekend. My father (a clinical psychologist for most of my life) explained to me later she was classic BPD and playing the victim and abandonment issues where par for the course.   
 
@@ -218,7 +254,7 @@ My heart sank.  My dreams crushed.  The wind taken completely out of my fucking 
 
 ## \------------
 
-## Chapter 8
+## Chapter 9
 
 I confront her when she comes home.
 
@@ -290,7 +326,7 @@ I go to our new bed we just got and try to sleep.  I stare at the ceiling and ev
 
 ## \-----------
 
-## Chapter 9
+## Chapter 10
 
 The next day i get up to leave for Utah  as I was supposed to clean out my condo in Park City that was under contract whose proceeds were going to the Costa Rican house she was planning on fucking a stranger in.  She follows me outside at 5:30 in the morning
 
@@ -310,7 +346,7 @@ What am I going to do? What the fuck am I going to do?
 
 ### \------------
 
-### Chapter 10
+### Chapter 11
 
 I'm standing in line at my favorite coffee shop. The one where the barista used to call me Chip since I looked a bit like Chip Gaines, the Home Makeover guy on tv.  I'm mumbling to myself, teary eyed, looking down, trying to distract myself from eye contact.  Roadies sipping lattes and hipsters chatting in nooks, my barista smiles her big smile at me and immediately knows something is wrong.  I pretend to be ok.  She knows I'm not, but we are not friends, she is busy and definitely doesn't need to hear this, as juicy as it is.  I get my latte and leave the cute coffee shop for the last time. No more morning commute to Shitty Job, no more saturday morning post-ride post-yoga coffee.  I get in my car, I take a sip of my coffee and my heart explodes.  I was holding it together long enough to get my coffee. I had an eight hour drive ahead of me through I-70 ski country into the Utah desert and eventually Park City.  I had alot of time to think, to be alone.  
 
