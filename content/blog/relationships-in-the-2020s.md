@@ -12,15 +12,13 @@ She lies next to me, mumbling into the pillow. Everything she is saying to me ma
 
 "Is everything ok with us?  Are you ok?"
 
-I get up. I am short with her: "If you keep asking me this every other day you should just go home. I don't go for this needy , clingy shit!"  
+I get up. I am short with her: "If you keep asking me this every other day you should just go home. I don't go for this needy, clingy shit!"  
 
-"Babe, why are you being like this?",  she cries, confused.
+"Babe, why are you being like this?" she cries, confused.
 
 I storm out of the room.  I go and try to sleep on the couch. She follows me and stares at me with sad eyes. It makes me more upset. I am pissed and I don't really know why.
 
-Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller and part time actress.  She loves my music and plays ok guitar.  She checks off all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
-
-Welcome to relationships in the new millennium. 
+Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller and part time actress.  She loves my music and plays ok guitar.  She checks all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
 
 ## \----------
 
