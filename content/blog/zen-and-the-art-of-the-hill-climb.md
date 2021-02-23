@@ -38,6 +38,8 @@ Today was the first day I rode my new road bike.  I just purchased a Specialized
 
 ![](../assets/specialized.jpg)
 
- I moved to Utah where the climbs are long and painful.  Delicious pain.   It just keeps coming at you.  I remember all the training in Massachusetts I used to do.  I would ride 20 miles to the little ski area near Boston and do hill repeats and then ride home.  In Utah it's pick a canyon. Go up it. Climb for two hours or so and then bomb down the road taking your life in your hands.  A rock in the road or a lazy driver could mean death.  It is humbling and beautiful and makes you realizes how weak you really are.  The mountain ALWAYS wins. 
+ I moved to Utah where the climbs are long and painful.  Delicious pain.   It just keeps coming at you.  I remember all the training in Massachusetts I used to do.  I would ride 20 miles to the little ski area near Boston and do hill repeats and then ride home.  In Utah it's pick a canyon. Go up it. Climb for two hours or so and then bomb down the road taking your life in your hands.  A rock in the road or a lazy driver could mean death.  It is humbling and beautiful and makes you realizes how weak you really are.  
+
+The mountain ALWAYS wins. 
 
 ![](../assets/img_2649.jpg)
