@@ -43,7 +43,7 @@ export default function Layout(props) {
             <Header />
           </HeaderContainer>
           <div className="row">
-            <main>{children}</main>
+            <main className="px-2 px-lg-0">{children}</main>
           </div>
         </LayoutContainer>
         <Footer className="align-content-center">
