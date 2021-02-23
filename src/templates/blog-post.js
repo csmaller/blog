@@ -29,7 +29,9 @@ const BlogPostTemplate = (props) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <h1>{post.frontmatter.title}</h1>
+      <div className="text-center w-100">
+        <h1>{post.frontmatter.title}</h1>
+      </div>
       <p
         style={{
           ...scale(-1 / 5),
