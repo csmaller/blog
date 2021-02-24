@@ -100,7 +100,7 @@ Show no emotion. No weaknesses in the armor.
 
 I knew Sarah for years and she was recently separated from her husband. She is in phenomenal shape. A person trainer obsessed with fitness, diet, supplements, her body.  
 
-We met for coffee and she told me how she cheated on her husband with some rich asshole and she felt bad because she didn't feel quite so bad about it.  He was a *connection* she has never felt.  Something inside of me clicks. My brain (or my dick) goes there.  Instead of seeing this gigantic red flag I see possibility.  As in: if she cheated with this guy, she could cheat with me too!
+We met for coffee and she told me how she cheated on her husband with some rich asshole and she felt bad because she didn't feel quite so bad about it.  He was a *connection* she has never felt.  Something inside of me clicks. My brain and heart goes there.  Instead of seeing this gigantic red flag I see possibility.  As in: if she cheated with this guy, she could cheat with me too!
 
  A month or two later she is separated and living in her own place. She has a party. I go. We drink. We make out. We eventually hook up.  Spiraling down this rusty drain, knowing there is no shot but holding out hope that Love Will Overcome.  It will make a great conversation starter for our grandkids someday. 
 
