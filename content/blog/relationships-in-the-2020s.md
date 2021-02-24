@@ -118,15 +118,15 @@ Ultimately one day after four months of deeper and deeper connections, of talks 
 
 Not for the massive amounts of money she will stand to lose in the divorce. Not for the fact that she would have to work again and didn't have much of a career.
 
- "For the kids. I can't let them be out of my sight for fear I may lose them to hate and Fox News and red MAGA hats that their father adorns".
+ "For the kids. I can't let them be out of my sight for fear I may lose them to hate and Fox News and red MAGA hats that their father adorns."
 
-How do i even argue with that?  How do i defend my position or convince her otherwise? How do I get her to pick me over her kids, money, stability, a husband who doesn't cheat but treats her like shit.  A boring future locked away in a gilded cage, surrounded by money and fake friends and attending cocktail parties for pharmaceutical reps in exotic locations?  
+How do i even argue with that?  How do i defend my position or convince her otherwise? How do I get her to pick me over her kids, money, stability, a husband who doesn't cheat but treats her like shit?  A boring future locked away in a gilded cage, surrounded by money and fake friends and attending cocktail parties for pharmaceutical reps in exotic locations?  
 
 The answer is : I don't.  
 
 Let it go man. Let it go. Move on. 
 
-Instead I rail against her like she never crossed that Rubicon. Like she didn't already make the decision to move back in. I cry she didn't even consult me yet she owes me nothing.  
+Instead I rail against her like we never crossed that Rubicon. Like she didn't already make the decision to move back in. I cry she didn't even consult me yet she owes me nothing.  
 
 My opinion doesn't matter.  Nothing stands between a mother and her cubs, I told myself.
 
@@ -180,9 +180,13 @@ On the eve of our one year anniversary of meeting we went to the bar we met at a
 
 "You two look so happy" everyone gushed.  Yet, there was an air of Something Not Right at the dinner table that night that my mother was picking up on.  She recalled later that Mary's friends all looked at me with sort of pity.  Maybe that's not the right word.  They were maybe "concerned" that I didn't know the whole truth. 
 
-At the time we were in the middle of buying a place in Nosara, Costa Rica.  The dirt roads, the surf, the sand, the yoga, the locals. It was Heaven.  My dream of leaving the corporate bullshit of software engineering and owning a little coffee shop in the jungle was palpable.   It was going to be our dream home and escape from the insanity and divisiveness of  the United States.  Our future would be Pura Vida.  Old snowboarders don't die, they take up surfing.
+At the time we were in the middle of buying a place in Nosara, Costa Rica.  The dirt roads, the surf, the sand, the yoga, the locals. It was Heaven.  My dream of leaving the corporate bullshit of software engineering and owning a little coffee shop in the jungle was palpable.   It was going to be our dream home and escape from the insanity and divisiveness of  the United States.  Our future would be Pura Vida.  Old snowboarders don't die, they take up surfing. 
 
-We were supposed to close on this little Spanish adobe five minutes from the beach on July 3rd of that year.  She was going down to handle the closing of the house and I was staying to take care of the house in Boulder and feed the fur babies. She was going to paint the place and get some furniture and get a company to handle gardening and security etc. This is a very important date to remember, dear reader. July 3rd.
+She was selling her place in Boulder, I was selling my place in Park City and taking money out of retirement to make it happen. Despite a good position in the software industry I am not "rich" by any means. Both of us coming from single mom upbringings in blue collar environments, I am very bad with money management.
+
+We were supposed to close on this little Spanish adobe five minutes from the beach on July 3rd of that year.  She was going down to handle the closing of the house and I was staying to take care of the house in Boulder and feed the fur babies. She was going to paint the place and get some furniture and get a company to handle gardening and security etc. 
+
+This is a very important date to remember: July 3rd.
 
 Two weeks later it all came crashing down. 
 
@@ -190,7 +194,7 @@ Two weeks later it all came crashing down.
 
 ## Chapter 8
 
-That weekend Mary and I had a fight and I was getting the proverbial cold shoulder all weekend. My father (a clinical psychologist for most of my life) explained to me later she was classic BPD and playing the victim and abandonment issues where par for the course.   
+That weekend Mary and I had a fight and I was getting the proverbial cold shoulder all weekend. My step-father (a clinical psychologist for most of my life) explained to me later she was classic BPD and playing the victim and abandonment issues where par for the course.   
 
 I do realize now how she surrounded herself with people who were givers. Her friends mostly doted on her and she played the role of victim with them very well. I recall her needing to take a sled down at Breckenridge because she had an "asthma attack" despite two doctors telling her she didn't have asthma. Side note: who takes the sled down for an asthma attack anyways?  In ski culture taking the sled is reserved for Jerrys or for only when you are really really hurt...but  I digress. 
 
@@ -278,23 +282,23 @@ She is stunned. Looks of disbelief.  A rat trapped in a corner.  Eyes darting fo
 
 "Did you tell him you are married and maybe you shouldn't give out your number?" I get within inches of her face.  I am staring her dead in the eye.  
 
-"I want to see these texts between you. Right now, please".
+"I want to see these texts between you. Right now, please."
 
 I am numb. I am cold.  
 
 I  grab her phone after I catch her staring at it in the kitchen possibly looking for some way out. 
 
-Where is the delete button? How do I delete these messages? How? 
+Where is the delete button?  How do I delete these messages?  How? 
 
 I see the messages.  She is the instigator of the conversation, not he.  She got his number and reached out to him.
 
 "Hey it's Mary from (sushi emoji)"
 
-"Oh i wouldn't have known it was you if it wasn't for the sushi emoji!  I had such a great time *connecting* with you. I almost missed my flight and would have had to stay at your place"
+"Oh i wouldn't have known it was you if it wasn't for the sushi emoji!  I had such a great time *connecting* with you. I almost missed my flight and would have had to stay at your place."
 
 Ah, the single guy bringing sleeping arrangements into the conversation. An old trick I have used many times.  Like the velociraptors in Jurassic Park testing the electric fence, except he was looking for a way in, not out.  
 
-"oh thats ok i have extra beds"
+"oh thats ok i have extra beds!"
 
 "I" not "We". Extra beds? what the hell is she talking about?
 
@@ -302,15 +306,15 @@ She's flirting with him like she did with me when we met. The conversation conti
 
 "Oh, that's OK I will see you in Costa Rica on July 4th!"  She  texts back.
 
-  Clearly an arrangement has been made between the two of them. 
+Clearly an arrangement has been made between the two of them. 
 
 I stare at her in disbelief.
 
-"How? what the fuck? What is this?"
+"How?  What the fuck? What is this?"
 
 Her cold eyes stare down at the floor. The dogs stare at us, knowing not to bark. Knowing something is wrong.
 
-"I wasn't going to follow through with it" was her explanation. 
+"I wasn't going to follow through with it." she mumbles.
 
 We have two airBnB renters in the basement.  I am furious. I want to scream at her and call her horrible names but I hold back, fearing the dreaded AirBnB review I would get.  So I am whispering directly about two inches from her face.
 
@@ -328,13 +332,13 @@ I go to our new bed we just got and try to sleep.  I stare at the ceiling and ev
 
 ## Chapter 10
 
-The next day i get up to leave for Utah  as I was supposed to clean out my condo in Park City that was under contract whose proceeds were going to the Costa Rican house she was planning on fucking a stranger in.  She follows me outside at 5:30 in the morning
+The next day i get up to leave for Utah  as I was supposed to clean out my condo in Park City that was under contract whose proceeds were going to the Costa Rican house she was planning on fucking a stranger in.  She follows me outside at 5:30 in the morning.
 
-"I will pay for the divorce and buy you out of the house. I've caused you enough hearbreak" She says coldly.  Flatly. No emotion.
+"I will pay for the divorce and buy you out of the house. I've caused you enough heartbreak" She says coldly.  Flatly. No emotion.
 
 She turns on her heels and runs back up the big flagstone stairs back to the house two at a time. 
 
-" you fucking bitch!  Who the fuck are you? I don't even know who you are!" I scream at her as she retreats back to the house we purchased together. 
+"You fucking bitch!  Who the fuck are you? I don't even know who you are!" I scream at her as she retreats back to the house we purchased together, not saying a word. Not looking back.   The master is teaching the student how to be the Victim.
 
 I drive the ten minutes down Lee Hill, trying to get to phone service to call my parents, to cry on their shoulders.  I need a coffee. I need to vent. I need to scream it all away. 
 
@@ -348,7 +352,7 @@ What am I going to do? What the fuck am I going to do?
 
 ### Chapter 11
 
-I'm standing in line at my favorite coffee shop. The one where the barista used to call me Chip since I looked a bit like Chip Gaines, the Home Makeover guy on tv.  I'm mumbling to myself, teary eyed, looking down, trying to distract myself from eye contact.  Roadies sipping lattes and hipsters chatting in nooks, my barista smiles her big smile at me and immediately knows something is wrong.  I pretend to be ok.  She knows I'm not, but we are not friends, she is busy and definitely doesn't need to hear this, as juicy as it is.  I get my latte and leave the cute coffee shop for the last time. No more morning commute to Shitty Job, no more saturday morning post-ride post-yoga coffee.  I get in my car, I take a sip of my coffee and my heart explodes.  I was holding it together long enough to get my coffee. I had an eight hour drive ahead of me through I-70 ski country into the Utah desert and eventually Park City.  I had alot of time to think, to be alone.  
+I'm standing in line at my favorite coffee shop. The one where the barista used to call me Chip since I looked a bit like Chip Gaines, the Home Makeover guy on tv.  I'm mumbling to myself, teary eyed, looking down, trying to distract myself from eye contact.  Groups of road cyclists sipping lattes and hipsters chatting in nooks, my barista smiles her big smile at me and immediately knows something is wrong.  I pretend to be ok.  She knows I'm not, but we are not friends, she is busy and definitely doesn't need to hear this, as juicy as it is.  I get my latte and leave the cute coffee shop for the last time. No more morning commute to Shitty Job, no more Saturday morning post-ride/post-yoga coffee.  I get in my car, I take a sip of my coffee and my heart explodes.  I was holding it together long enough to get my coffee. I had an eight hour drive ahead of me through I-70 ski country into the Utah desert and eventually Park City.  I had alot of time to think, to be alone.  
 
 I wail.  It feels good. I open the window and let the Colorado air hit me full on in the face, wiping my tears away for me.  I blast down route 6 towards I-70.  The first of many trips I would take that month, culminating in me and a buddy in a moving truck with all my stuff moving back to Utah with my tail between my legs, no job, no home in Boulder, Park City nor Costa Rica.  
 
@@ -366,12 +370,28 @@ I turn right. I call my parents. My mom immediately knows something is wrong.  I
 
 I pass the exit for Winter Park. I tell her about Friday night. I pass the exit for Keystone and A Basin and tell her about the fight we had, about her going out with her friends.  
 
-By the time I pass Beaver Creek it is all out. I am drained. My parents are on speaker phone, stunned.  They were just in Boulder for the wedding two weeks ago. How could this have happened? How? Everything was perfect. 
+By the time I pass Beaver Creek it is all out. I am drained. My parents are on speaker phone, stunned.  They were just in Boulder for the wedding two weeks ago.  How could this have happened? How? Everything was perfect. 
 
-"it was all a lie mom. I got played"
+"It was all a lie mom. I got played"
 
-My stepfather, ever the rational one, steps in with his calm Psychologists demeanor and tone.  Everything will be ok. Let's break this down.  
+My stepfather, ever the rational one, steps in with his calm psychologists demeanor and tone.  Everything will be ok. Let's break this down.  
 
-He tells me about his thoughts on Mary and how she is classic [Borderline Personality Disorder  ](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml).   
+He tells me about his thoughts on Mary and how she is classic [Borderline Personality Disorder](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml).   
 
 I take it all in. I take my dads word as gospel.  I harden my heart and plan for the future. I have to get divorced or annulled.  I have to move away. My head is spinning with a soup of emotion: hatred, anger, sadness, and yes optimism.
+
+
+
+### Chapter 12
+
+I go through the steps of depression.  The only solace I have is backcountry skiing. Throwing myself into a long tour and just letting my mind go to oblivion. The only way I know how to survive, to move on.  My friends look at me out of the corners of their eyes wondering if I am going to explode.  They don't need this.  We are all adults here, and American men in the 21st century are not the best at dealing with emotional wrecks. So, they do what they can. They feed me booze and food and get out of my way and just generally try to be there to help. I do my part and try not to randomly cry or scream at the sky.
+
+I'm fine. Everything is fine.  I'm good.  Bullet dodged right?  Better to find out now than later, right?
+
+I drink so much and eat so much bad food I get a gout inflammation. My foot feels broken half way up a ski tour. By the time I get to the car I cannot walk.  I'm more concerned that I am now stuck in a bed and with my thoughts than the pain I am in. I didn't even think gout was a real thing. That happens to fat guys who smoke, not me.   I have a job interview with a bank that I don't even want to attend but I do it anyways (and get the job somehow).  I start in two weeks.  
+
+How?  I am living in my friends basement.  I can't even think straight. I keep waiting for this other remote job to offer me something so I can escape and hit the road.  I have money from the divorce since she bought me out for the house.  I could just run away.  Get in my truck and go.  
+
+I don't.  I stay.  I start my new job.  Broken and confused and emotionally fucked up. I walk into this bank corporate office pretending to have my shit together.  I'm surrounded by the nicest people in the world (Mormons) and get the cheery "Welcome to the Bank"  orientation:  Here is your badge. Here is your credentials. Your computer. Your new coffee mug!  Your new headphones! The folder of papers describing the corporate policy and mission statement I will never read and end up in recycling.  
+
+I somehow make it through the week.  I strive for the weekend. I need to get away. I am still on crutches from the gout.
