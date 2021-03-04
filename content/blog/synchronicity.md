@@ -2,11 +2,9 @@
 path: synchronicity
 date: 2021-03-04T16:56:03.332Z
 title: Synchronicity
-description: when someone comes into your life that can change your entire
+description: When someone comes into your life that can change your entire
   paradigm, you better listen to the universe
 ---
-
-
 You know that moment when it's darkest before dawn?  When you give up on trying to make things happen and stop trying to swim upstream?  When you hit rock bottom?  For addicts it's the realization that you *can* change.  
 
 *You* have the power in you and the universe is just waiting patiently for you to make the decision.  
@@ -17,7 +15,7 @@ I go in every few months and say  "go nuts, just do whatever you think."   And i
 
 I go in on Friday, February 19th. 
 
-For all you astrology buffs out there this day was significant because Feb 19th is when the sun enters Pisces season from Aquarius.  Pisces season is all about surrender and acceptance, and encourages trusting divine intelligence. Also a huge shift from the mind to the heart. It's also a time for closure and culmination. 
+For all you astrology buffs out there this day was significant because Feb 19th is when the sun enters Pisces season from Aquarius.  Pisces season is all about surrender and acceptance, and encourages trusting divine intelligence.  It's a huge shift from the mind to the heart. It's also a time for closure and culmination. 
 
 I was feeling down:  overwhelmed with life, kinda tired.  She comes out with a sound bowl while her assistant washes my hair.  It vibrates my soul, I go somewhere else in the ether.  
 
