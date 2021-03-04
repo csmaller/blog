@@ -4,13 +4,13 @@ date: 2020-12-07T14:53:37.576Z
 title: Be Brave Enough To Suck At Something
 description: being in the middle is ok
 ---
+Mediocrity.
 
-
-Mediocrity.that name conjures up visions of failure in most of us. Just another car on the highway, another sponge not making any difference in the world, contributing to overpopulation, mass consumption and waste. 
+That name conjures up visions of failure in most of us. Just another car on the highway, another sponge not making any difference in the world, contributing to overpopulation, mass consumption and waste. 
 
 True, Not all of us can be exemplary humans: a Mozart, an Einstein, a Michelangelo. Hell, most of us barely have the energy beyond homeostasis, reproducing and working a full time job to do anything of any importance in the world.
 
-Growing up in the US in the 20th and 21sr century many of us are told how exceptional we are . How each and every one of us will be an astronaut or accomplished physician or rockstar . 
+Growing up in the US in the 20th and 21sr century many of us are told how exceptional we are . How each and every one of us will be an astronaut or accomplished physician or rock star . 
 
 Nobody tells their kids “hey you’re going to grow up to commute to a shitty job you probably hate, to get a paycheck to barely afford a lifestyle of meager existence and be a blip on the radar screen of life. You yourself will probably eventually have mediocre kids who will perpetuate your lameness through their own shitty existence.“  So on and so forth. 
 
@@ -22,7 +22,7 @@ B. They change and morph into something you can live with.
 
 C. By some combination of luck and hard work , become reality. Unless your dream has always been to exist mostly on this planet in cubicle C43, third floor, with a view of the break room. Then, by God, you have a fighting chance at all of your dreams coming true and everything about your existence justified by your utter lack of vision.
 
-So for those of us who don’t fit Into the third mold this is for you: the struggling artist working in finance for MegaCorp. The promising rockstar now working as a graphic designer, the dancer waiting tables. You get the picture.
+So for those of us who don’t fit Into the third mold this is for you: the struggling artist working in finance for MegaCorp. The promising rock star now working as a graphic designer, the dancer waiting tables. You get the picture.
 
 ME-diocrity
 
@@ -46,7 +46,7 @@ They say Greatness rewards those who take risks (or their parents give them a to
 
 Eventually however after a few risks and subsequent moves back into your parents basement maybe you start to yearn for the golden handcuffs of corporate life/ modern day slavery in the 21st century. When did getting that 70k a year with two weeks off become, for lack of a better word , The Shit?
 
-### Mediocre beginnings
+### \-----------
 
 I grew up in a town about 45 minutes south of Boston called Easton. Easton used to be a middle of the road farm town. Today this is not the case as it’s now gentrified to the point of absurdity. It is surrounded by highways taking you to other, more exciting and better smelling places. It is strategically located halfway to Cape Cod from Boston, halfway to Providence, RI and located one town over from Foxboro where the New England Patriots play football. Most of the town is public parks and swamp land.
 
@@ -68,7 +68,7 @@ I got out.
 
 ### Forget Money
 
-I used to care about money. It made the world go around after all.  Don’t get me wrong you need money to survive in this world . Making it is a good thing. But it should be the result of your path and not the reason for the path. Not the Be All End All.
+I used to care more about money. It made the world go around after all.  Don’t get me wrong you need money to survive in this world . Making it is a good thing. But it should be the result of your path and not the reason for the path. Not the Be All End All. 
 
 I left New England in 2005  and there have been giant blunders along the way. I have been broke, had multiple injuries, been fired from jobs, very bad relationships, moved back to Boston once, Colorado once, and eventually returned to Utah. I started two IT businesses that failed and had a career path that abruptly ended. I worked at government agencies with people already dead. Counting down the 20 years to retirement. I’ve worked with so many Mormons and have felt very alone and isolated in that culture. I've learned to hate IT because of the weird culture that pervades everything in Utah stacked on top of a nerd culture that values Star Wars references and how well you play video games over connections and empathy.
 
@@ -96,9 +96,7 @@ Learn, relearn rinse and repeat. Get better to your satisfaction.
 
 Be brave enough to suck at something.
 
-
-
-### Science 
+### Science
 
 Staying curious will keep you young. Just as eating right and sleeping long enough every night and physical fitness, learning new things will create new synaptic pathways in your brain. Your brain as a child hasn’t changed now that you are a growing adult. It still needs to be nourished with nutrients in order to function .The human brain gets very good at repetition. Scientists call it “synaptic pruning”. Your pathways will prune other forks and roots and strengthen the pathway to efficiency.IMO if the human brain stops learning new things it gets stale and weak, just like muscles that aren’t used become atrophied. The old adage “you can’t teach an old dog new tricks” comes to mind. 
 
@@ -141,10 +139,6 @@ It also helps to pick a hobby that endlessly improves. Something you can get bet
 Tagline:
 
 A story of redemption, accepting who you are, being ok with being ok, and keeping young through curiosity.
-
-
-
-
 
 Footnotes:
 
