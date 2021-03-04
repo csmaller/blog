@@ -44,9 +44,7 @@ To give you an idea of how badly I stood out: I had a thick blue collar Boston a
 
 Living on Disney property with no car and no cash flow other than the $100 or so you make in a week your social life is limited to the 3000 or so other students at VW. The other option is to hook up with a Disney perm and get picked up at the gate of Vista Way like a kid at a 7th grade dance.
 
-I ended up meeting Kristen. She was a Jersey girl who lived right next door to us and I was instantly smitten. She went to Trenton State and loved Disney. It was her dream job to work as a hostess at the Yacht and Beach Club and came from good northwest Jersey stock. Pretty with dark hair and a great smile she made me feel pretty lucky.
-
-### Arrival
+\------------------
 
 I couldn't have arrived in Florida any less prepared. I was two days early and stayed at a Holiday Inn near Vista Way for a few days on my employee rate. I was woefully pale and didn't understand the concept that my Boston ginger skin would fry like an ant under a magnifying glass without sunblock SPF 3000.  I grew up 1 hour from Cape Cod but I was also worked in kitchens for many years and rarely got to the beach or even outside for that matter. I also had two wisdom teeth removed the day before I left and was alternating between bleeding from my face , taking pain killers, drinking cheap beer, and tripping on said stimulants by the pool with families who were taking a day off from visiting the parks.
 
@@ -62,9 +60,7 @@ Training was brutal. On the first day I watched three guys vomit right on the de
 
 Again, Disney Does Not Play. They have safety on lockdown. In fact, it is known amongst Cast Members that nobody has ever died on Disney property. They just make sure to keep you alive enough until you are off property. Of course this is utter bullshit and just another example of the Disney mythology that everything is perfect here. The grass is a little bit greener, the road signs are purple with little mickey ears behind them, and you are immortal.[](http://www.snopes.com/disney/parks/declare.asp)
 
-### \-------------------
-
-### Roommates And Friends
+### \------------------
 
 After my brief encounter with Texas gaI I was not feeling very optimistic about meeting people I could relate to. With mouth throbbing, pale and hungover, I arrive at my designated apartment at Vista Way and hesitantly opened the door to my new abode.
 
@@ -80,19 +76,37 @@ Ryan was a New York boy through and through.  He was a cook at the Magic Kingdom
 
 Bill was Ryans roommate and we affectionately called him "Bill The Mexican" for obvious reasons.  I think the first day we met him he had a "If you want something done right hire a mexican" tee shirt on.  Which Tim immediately jumped on.  Only Tim could get away with such things but Bill took it all with good humor. Always smiling, Bill worked in Tomorrow Land at the Magic Kingdom and ate hawaiin pizza every night.   We made sure to keep him thoroughly intoxicated as well. 
 
-Dan was my roommate and both he and Bill were from Chicago.  Dan was a tall funny guy who somehow put up with me as his roommate.  You must remember I never lived anywhere but Massachusetts and everyone I knew was from tougher blue collar worlds.  I was not great at dealing with people outside of my culture. He was the perfect roommate and we still friends to this day. I'm sure I put him through hell sometimes with my attitude.  Dan was always smiling and the following year both he and I came back to Disney to work different jobs.  Dan was a River Boat captain and I went into Characters. 
+Dan was my roommate and both he and Bill were from Chicago.  Dan was a tall funny guy who somehow put up with me as his roommate.  You must remember I never lived anywhere but Massachusetts and everyone I knew was from tougher blue collar worlds.  I was not great at dealing with people outside of my culture. He was the perfect roommate and we still friends to this day. I'm sure I put him through hell sometimes with my attitude.  Dan was always smiling and the following year both he and I came back to Disney to work different jobs.  Dan was a River Boat captain and I auditioned and got the role in Characters at the Magic Kingdom. 
 
-The six of us made up the residency at Vista Way.  We had many drunk shenanigans, parties, very little drama and lots of laughs.  Three months is the perfect amount of time to know five other strangers chucked into a small apartment together and forced to live with meager wages.   We managed to make it work. We partied almost every night.  I annoyed them all with bad Neil Young and Grateful Dead songs on my guitar.  When we weren't working or partying Kristen and I were joined at the hip.  It was a good time to be alive.  
+The six of us made up the residency at Vista Way.  We had many drunk shenanigans, parties, very little drama and lots of laughs.  Three months is the perfect amount of time to know five other strangers chucked into a small apartment together and forced to live with meager wages.   We managed to make it work. We partied almost every night.  I annoyed them all with bad Neil Young and Grateful Dead songs on my guitar.  Tim made fun of my voice. It was perfect harmonious living. 
 
 I met my second Texas friend, Heath Mitchell from Lubbock, TX, during lifeguard training. Heath and I both had this great idea of selling door to door Disney College Program official tee shirts.  We got high and created a David Letterman-style "top ten list" of things overheard at Vista Way.  We printed up some tee shirts and we were on our way to our side hustle.  We printed out hundreds of batches of these tees and sold them door to door at Vista Way.  We eventually sold out and funded our marijuana habit.  
 
 Heath would say "just gotta make enough to go back home and get that gold plated pistol, man." He was so authentic Texas: big truck, big attitude, big country music collection, the drawl. We were polar opposites and got along great.  One thing I can tell you about Texas folks: they are respectful and proud.  I can honestly say I've never met a real Texan that wasn't an affable, down home country roots type of person. They are all full of "yes m'ams" and "thank ye m'ams" and they love their college football.  
 
+One day I was outside mangling my guitar, sitting on the banks of one of the shallow cesspool/ponds that Vista Way has an abundance of.  Behind me I hear the bustle of new Cast Members moving into their place.  Six women I've never met were moving in. They were happy and chipper and eager to meet new people.  I was a veteran after three weeks at Disney, and felt I needed to be the ambassador to all the secrets of Vista Way. Meet the neghbors: Marci, Cindy, Cindi, Mona and Kathy.    
+
+Kathy was from New Jersey.  she went to Trenton State and grew up loving Disney and Florida. It was her dream job to work at Disney and she was a hostess at the Yacht and Beach Club. She was and is very pretty, petite and fit with dark hair and a great smile.  That night we all went out to Church Street Station in Orlando and Kathy and I talked for hours on the steps of our new home after multiple Fat Tuesday mixed drinks ($1 for Disney College Program on Tuesdays!).  We became a couple shortly thereafter and were joined at the hip for most of the duration of our time at Vista Way. We continued our romance for another year after returning home to the Northeast until it fizzled due to my immaturity, distance, time and money.  She was ready for marriage and I wanted to snowboard. 
+
+Kathy is still a friend on social media and now lives in Florida where she is married, and in "the lifestyle" living the wild nightlife of a swinger and running private Adult Only parties all over Tampa Bay.  Ah, Florida. 
+
+\------------------------
+
+When you work on the College Program Disney gets around having to pay you living wages by saying it's school and education related. So they make everyone take Traditions. 
+
+On Vista Way property there is a building with round tables and no windows. On one of your days off you get to wear a tie and sit in one of these rooms with other hungover Cast Members and an instructor for eight hours where you learn all about about Disney: The shady things Walt and Roy did to get the land in Florida, their Trademark laws if you ever decide to use one of their million copyrighted symbols or names, the Dark Times in the 70s, and Michael Eisners strange infatuation with Roger Rabbit.  
+
+If you don't miss any classes you get your Ducktorate Degree and if you miss one you get a Mouseters Degree. If you miss more than one you are out of the program because again: Disney Does Not Play. 
+
+\------------------------
+
+Our days working together got into a rhythm.  Wake up whenever, hang out at the International Pool. So called because all the EPCOT international students hung out there, even though the Vista Way babysitters wanted everything to be all inclusive to everyone and didn't want you to use that term but we still used that term. Come on, this is where the Norwegian, French and Japanese girls hung out.  Why go to that other lame pool with boring Americans.
+
+Dan and I got second hand bathrobes from Property Control for five bucks with the Grand Floridian labels on them (fancy!) and walked around the I-Pool like Hugh Hefner lookalikes.  Drinks in hand, hot tubbing commencing.  We were a hit. 
+
 \-------------------------
 
-### The Fiddle Dick
-
-When I worked in characters at Disney we would sign autographs. Back then every kid had a red autograph book for signing. So picture sweating out the booze from the night before, possibly still a little drunk and maybe slightly high, in your furry costume with bad eye holes, and all you see in front of you is smiling innocent faces with their books open at you.
+During my second year on the College Program I worked in characters at Disney we would sign autographs. Back then every kid had a red autograph book for signing. So picture sweating out the booze from the night before, possibly still a little drunk and maybe slightly high, in your furry costume with bad eye holes, and all you see in front of you is smiling innocent faces with their books open at you.
 
 Most of the time I played Shaker Bear from the Country Bear Jamboree: That auto animatronic show featuring three hillbilly bears jamming out. Shaker had a fiddle. That was his jam.
 
