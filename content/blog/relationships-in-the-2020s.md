@@ -430,9 +430,9 @@ While I am resonating and soaking wet she nonchalantly says "oh you know what, I
 
 She stops and thinks for a second... 
 
-"Oh my God why haven't I thought of this! You two would be perfect together!  She snowboards every day, she is self aware, she is beautiful and smart and kind! "
+"Oh my God why haven't I thought of this! You two would be perfect together!  She snowboards every day, she is self aware, she is beautiful and smart and kind!"
 
-I am sort of half listening. I have done these set ups before. I think we all have, but I love my friends energy and don't want to hurt her feelings.  I just went on another boring date a few nights before.  Hopes dashed once again.  She frantically pulls up her instagram and i see a flash of blonde and a big smile.  
+I am sort of half listening. I have done these set ups before. I think we all have, but I love my friend's energy and don't want to hurt her feelings.  I just went on another boring date a few nights before.  Hopes dashed once again.  She frantically pulls up her instagram and i see a flash of blonde and a big smile.  
 
 "Ok sure take some pics of me and maybe send it over to her and we will see what happens." I say, and then I put it out of my mind.  Better to placate my lesbian hairdresser with sharp scissors in her hand than to say "No, I'm not looking and not interested right now but thanks."
 
@@ -452,4 +452,4 @@ We agree to meet and go snowboarding together.  I plan the tickets and that Sund
 
 I drink a ton of coffee and buy some bagels.  Despite her beauty and obvious love for her two beautiful kids, her athleticism and self awareness I am still hesitant to open up. I am still pessimistic.  
 
-The universe sighs again, louder.
+The Universe sighs again, louder.
