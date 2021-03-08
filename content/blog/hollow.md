@@ -4,6 +4,8 @@ date: 2021-03-08T14:40:48.778Z
 title: Hollow
 description: just a little song I wrote...
 ---
+\----------------------------------
+
 Words whisper summer rain
 
 Dropped outside your windowpane
@@ -18,8 +20,7 @@ what we see and what we feel
 
 are chemicals blatant lies
 
-\
-----
+## \
 
 Will you send me a sign
 
@@ -45,8 +46,7 @@ Ponder monkey, go make your name
 
 Our history shall do the same
 
-\
----
+## \
 
 Written of our fallen lives
 
