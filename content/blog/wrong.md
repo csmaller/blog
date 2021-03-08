@@ -1,8 +1,8 @@
 ---
-path: wrong
+path: music/wrong
 date: 2021-03-08T14:52:01.869Z
 title: Wrong
-description: ....tunes ----
+description: ....tunes -
 ---
 \------------------------------
 
