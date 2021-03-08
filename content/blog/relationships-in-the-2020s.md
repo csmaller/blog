@@ -14,31 +14,27 @@ Me: "Haha, yeah Let's do it again. I would love to take you out for dinner somet
 
 Then...Nothing.  
 
-Dating in the 2020's: You go out with someone you met on a dating app or Facebook.  They are intimate. They tell you secrets and why they are single, past loves who have jilted them and why they are the victim and not the victor.  You get just enough intelligent conversation, just enough eye contact and physical touch.  You get a kiss at the end of the night and go home on air.
+Dating in the 2020's: You go out with someone you met on a dating app or Facebook.  They are intimate. They tell you secrets and why they are single, past loves who have jilted them and why they are the victim and not the victor.  You get just enough intelligent conversation, just enough eye contact and physical touch.  Maybe you get a kiss at the end of the night.
 
 You think you've connected.  You think you made headway into someone's heart.  Maybe even a deeper feeling than that.  Then, the next day once the alcohol wears off they disappear.  
 
-You start to get a bit depressed. You stalk their Instagram and wonder what you did wrong.  
-
 Was I too aggressive? Not aggressive enough? Not tall enough? Fit enough? Smart enough? Drove the wrong car? Didn't make enough money?
 
-Then you realize that person was faking it.  They were suffering through your presence for whatever reason: Attention. A Free Meal.  Dopamine. Sex.  To Feel Wanted.
+Then you realize that person was faking it.  They were suffering through your presence for whatever reason:  Attention. A Free Meal.  Dopamine. Sex.  To Feel Wanted.
 
-We've all done it right?  We've all been the Rejected and the Rejector.  You don't feel like you owe that person an explanation. I mean, you just met and he just bought you some drinks or dinner.  No need to be brutally honest and rip the band aid off. 
+We've all done it right?  We've all been the Rejected and the Rejector.  You don't feel like you owe that person any explanation You just met and had some drinks or dinner.  No need to be brutally honest and rip the band aid off. 
 
-I have actually had a date where she walked in, took one look at me and made an excuse and left.  I was shocked and hurt and felt like a leper but at least it was immediate and we didn't waste any more time or money in something one of us wasn't interested in.
-
- No, it's better to not hurt their feelings.  Right?  Do the "Slow Fade".  Tell them you need to work late all week and hopefully they get the hint.  If they don't then turn it on them:
+ No, it's better to not hurt feelings, right?  Do the "Slow Fade".  Tell them you need to work late all week and hopefully they get the hint.  If they don't then turn it on them:
 
 "Hey what's up? I am getting the sense you aren't interested even though we talked all night and made out in my car.  I thought we had a connection?"
 
-"Whoa. Really? Dude, I have been busy!  (insert undefendable excuse here to make you feel like the asshole.  Topics include: My Son Was Sick. My Dog Was Sick.  I Was Sick.  I Was Working.  I Was Out Of Service Even Though I Was Updating Social Media.  My Phone Broke. I Was In An Accident).  I don't need this kind of person in my life."
+"Whoa. Really? Dude, I have been busy!  (insert undefendable excuse here to make you feel like the asshole.  Topics include: My Son Was Sick. My Dog Was Sick.  I Was Sick.  I Was Working.  I Was Out Of Service Even Though I Was Updating Social Media.  My Phone Broke. I Was In An Accident)."
 
 See? Now you are the asshole and they can move on knowing they are good people.  You have become part of the narrative of their next date.  You get a title and a nickname for their friends.
 
 That's ok.  Pick yourself up and dust yourself off.  You have other fish in the sea.  You have a line of men or women waiting to meet you.  It's no problem to stay shallow and date in this world, even during a pandemic. If you look good you will get dates. Period.  There is no need for intellect or empathy.  
 
-Swipe right. Connect. Disappear. Repeat. Sometimes you are the Victim and sometimes you are the Victor
+Swipe right. Connect. Disappear. Repeat. Sometimes you are the Victim and sometimes you are the Victor.
 
 ## \-------------
 
@@ -56,15 +52,15 @@ I get up. I am short with her: "If you keep asking me this every other day you s
 
 I storm out of the room.  I go and try to sleep on the couch. She follows me and stares at me with sad eyes. It makes me more upset. I am pissed and I don't really know why.
 
-Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.  We have great sex. She loves most of the things I do. She skis and snowboards and is a ski patroller and part time actress.  She loves my music and plays ok guitar.  She checks all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
+Inside I am raging.  I am so irritated with her. We've been together for a little over a month.  We already took a road trip to San Diego and surfed every day.  We've camped in the back of my truck.  We rock climb.   She loves most of the things I do. She skis and snowboards and is a ski patroller and part time actress.  She loves my music and plays ok guitar.  She checks all the boxes for me.  She's goofy and kind and tall and blonde and pretty.  So what is my problem?
 
 ## \----------
 
 ## Chapter 3
 
-Everyone I know who is single has ADD.  Everyone is looking for perfection.  Everyone is so fragile and needy and yet have walls up so high.  We all want our needs met but won't budge when it comes to actually giving something back.  
+Everyone I know who is single has ADD.  Everyone is looking for *perfection*.  Everyone is so fragile and needy and yet have walls up so high.  We all want our needs met but won't budge when it comes to actually giving something back.  
 
-We go on dating apps, we tell our stories over and over to strangers. We wear our false-hearts on our sleeves to appear sensitive.  Our lives on Instagram are *amazing. ah-mazing.* Everything is blessed, and I am woke, and  I just need to find my Forever Girl.
+We go on dating apps, we tell our stories over and over to strangers. We wear our false-hearts on our sleeves to appear sensitive.  Our lives on Instagram are *amazing. ah-mazing.* Everything is *blessed*, and I am *woke*, and  I just need to find my *Forever Person*.
 
 In reality we hide our true hearts behind barbed wire.  It's there, beating away.  Try and touch it and you see it's protected behind angry words and fake emotion and trenches of shallow connections.  Try to pull it out into the light and watch me bite and snarl and defend my fragile ego. 
 
