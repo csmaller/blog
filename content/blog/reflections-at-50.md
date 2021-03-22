@@ -4,9 +4,11 @@ date: 2020-08-27T17:35:40.174Z
 title: Anger
 description: Some unsolicited advice to men everywhere.
 ---
-Ever since I can remember I've done things out of anger. As I get older I’m starting to recognize the thought process that can drag me down into negativity and self-sabotaging behavior. They say behind anger is fear and most of my time here on this Earth I've been angry. Not the "get in a fight scream and yell at someone” kind of angry but the steady droning anger that underlies almost every decision I've made. Spite. Jealously. Greed. Vanity. All these negative emotions are subconscious protectors of our egos. It’s letting go of the ego and accepting who you are which leads you down the path of self-awareness and grace.
+Ever since I can remember I've done things out of anger. As I get older I’m starting to recognize the thought process that can drag me down into negativity and self-sabotaging behavior. They say behind anger is fear and most of my time here on this Earth I've been angry.  Not the "get in a fight scream and yell at someone” kind of angry but the steady droning, buzzing anger that underlies almost every decision I've made. 
 
-Remember: There will always be someone better looking, more intelligent, faster, stronger. Acceptance and love is the key to calming that angry mosquito in your ear.
+Spite. Jealously. Greed. Vanity. All these negative emotions are subconscious protectors of our egos. It’s letting go of the ego and accepting who you are which leads you down the path of self-awareness and grace.
+
+Remember, there will always be someone better looking, more intelligent, faster, stronger. Acceptance and love is the key to calming that angry mosquito in your ear.
 
 This is written from my perspective to maybe help someone find their own path. To better understand what I'm saying you have to look at my underlying philosophy on life. I believe we are here to learn how to love, to overcome trust issues and addictions. To fulfill a contract. With whom I have no idea. Why, in the whole grand scheme of things, I too have no clue. In my opinion, during this life you have something you need to do or learn in order to evolve. Something in our contracts with our maker to try and elevate our spirits to vibrate on a higher level. To be more God-like if you will. Everybody plays a part - parents and brothers and sisters and those around you.
 
@@ -20,13 +22,9 @@ To address my own issues I believe I have to start, in a very classical Freudian
 
 My mother was raised in the suburbs of Boston: Dorchester, South Boston, Roxbury. Places where Irish and Italian immigrants mixed and mingled and produced little offspring like myself inheriting the qualities, beliefs, superstitions and culture of two very proud heritages. She lived in a brownstone with her grandparents upstairs and aunts and uncles all around them. Her father, my grandfather Anthony, was born on the boat coming over from Sicily and I found out later that in a very stereotypical fashion that half the family were affiliated with the Italian mafia. Her mother was a very religious Boston Irish woman named Florence. My memories of her were always laced with Jesus references and daily mass and too much perfume. She cooked like an Italian and prayed like an Irish woman.
 
-
-
 Please don’t forget who brought you into this work and brought you up in this world.
 
 My mom is hands down the most amazing person I know. I cannot say enough about her. She was not only my caregiver as a kid, she was the source of laughter, inspiration, my shoulder to cry on and my rock. She selflessly put her cares and needs behind the needs of her kids. The most accurate word to describe “The Jude” is Grace. She was a yogi before yoga was hip. She taught aerobics in the 80’s and to this day I am convinced she invented what is now modern day aerobics. She managed to get me to baseball games and skate practice almost every day of the week, bartend at night, teach and manage a spa during the day and keep all of us in fashionable clothes (the one thing about my mother is she would never sacrifice fashion, no matter how hard she had to work). She picked up a job at the mall from September to December so she could buy us all christmas gifts. We never knew how much of her life she sacrificed and I still don’t to this day. I am in awe when I think about what she did for me, how she supported me, and how she put up with me and my brothers alone growing up in a rapidly growing, expensive town in Massachusetts. We could have moved to a cheaper city but she wouldn’t separate us from our friends and our schools. That is my role model and she still is.
-
-
 
 My father was the product of a Jewish Russian alcoholic father whom I never knew and who died of liver failure when I was very young. His mother, Rose, was a Sicilian beauty who came here in her teens and supposedly broke every heart in Boston. She was a wonderful, sweet, beautiful woman.
 
