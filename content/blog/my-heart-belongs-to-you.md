@@ -1,7 +1,7 @@
 ---
 path: music/my-heart-belongs-to-you
 date: 2020-11-11T15:53:56.426Z
-title: My Heart Belongs To You
+title: My Heart Belongs To You (Music)
 description: a little folksy song I wrong
 ---
 I’m so addicted this affliction
