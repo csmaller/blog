@@ -1,7 +1,7 @@
 ---
 path: toxic masculinity
 date: 2021-03-22T03:35:51.150Z
-title: toxic masculinity
+title: Losing Toxic Masculinity
 description: on the toxicity of our society
 ---
 There are many times in our lives where we have a paradigm shift in our perspective. Whether it's a career you're not passionate about anymore, a lover you have drifted away from, or friendships that don't support or serve you anymore.  
@@ -21,3 +21,7 @@ They say, "Where is the Old Corey? The guy who was the life of the party? ready 
 To quote Joe Peschi in GoodFellas, "what am I? a clown? Here for your amusement?"
 
 Up until recently my view was : All men were rivals and threats.  All women were objects.
+
+
+
+To be continued ...
