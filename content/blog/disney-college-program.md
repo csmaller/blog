@@ -132,4 +132,4 @@ Now picture Shaker shitting his britches visualizing lawsuits and screaming Texa
 
 And somewhere right now in America there is one or several 30 something year olds with an old autograph book from Disney with a giant dick in it. You’re welcome America.
 
-\--more to come
+To be continued...
