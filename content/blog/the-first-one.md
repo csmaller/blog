@@ -29,3 +29,7 @@ She just broke it off with a long time boyfriend and moved into an apartment wit
 I was just amazed by her. She was a Yale graduate, smart, kind, witty and would flirt and poke fun at my accent and world view. She did Ironman triathalons and would crush all the pros out of the water, but her bike sucked and her run was fast, so she would gain ground, lose ground and then have to maintain her place on the run.  She had potential to be great if she could improve her bike efficiency.  She would look at me as I spoke and really listened to what I was saying. 
 
 To anyone who have seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Elites and the Trade School Sullys.  I was raised mostly by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with ever sentence.  Calling everyone "kid" or "sweetheart".  Then here comes Brenda from Wellesley. From The Other Side.
+
+
+
+To be continued ....
