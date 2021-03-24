@@ -1,7 +1,7 @@
 ---
-path: toxic masculinity
+path: crossroads
 date: 2021-03-22T03:35:51.150Z
-title: Losing Toxic Masculinity
+title: At A Crossroads
 description: on the toxicity of our society
 ---
 There are many times in our lives where we have a paradigm shift in our perspective. Whether it's a career you're not passionate about anymore, a lover you have drifted away from, or friendships that don't support or serve you anymore.  
