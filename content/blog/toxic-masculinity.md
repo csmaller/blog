@@ -30,6 +30,8 @@ The blindside: That glaring, annoying flaw you have you are not aware of.  The b
 
 Was I *really* like that ? It's a bitter pill.  No, I couldn't have been that selfish, right?  I meditated on it.  
 
+### Objects
+
 Now, to clarify, I don't think I "objectified" women in such a stereotypical, cliche, physical way.  As in: I didn't really want some Barbi doll on my arm to make me look good but I chose a partner partly because how it would look for me. We all do that to a lesser or greater extent tho, right?  Will my mom like her?  Will my friends like her? How impressive will she be at parties with her knowledge of whatever?  How pretty does she look dressed up when we walk into a bar and guys check her out, knowing she is with me? How well does she do some activity I associate my "Self" with?  
 
 I chose some for their minds, their athleticism, their kindness, their spirituality and yes their beauty. I fed off of it.   
