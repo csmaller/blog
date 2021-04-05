@@ -22,6 +22,48 @@ To quote Joe Peschi in GoodFellas, "what am I? a clown? Here for your amusement?
 
 Up until recently my view was : All men were rivals and threats.  All women were objects.
 
+When I wrote that last sentence I had to stop writing for the day.  I had to take a break from it because  the truth of it really didn't hit me until I actually wrote it.  Then I took a few days and it kept coming back at me.  
+
+I didn't want to admit it.  
+
+The blindside: That glaring, annoying flaw you have you are not aware of.  The blindside is usually discovered as a result of brutal honesty and self reflection.  In our society it's considered rude to point it out and most people do not come right out and tell you about your blindside.  
+
+Was I *really* like that ? It's a bitter pill.  No, I couldn't have been that selfish, right?  I meditated on it.  
+
+Now, to clarify, I don't think I "objectified" women in such a stereotypical, cliche, physical way.  As in: I didn't really want some Barbi doll on my arm to make me look good but I chose a partner partly because how it would look for me. We all do that to a lesser or greater extent tho, right?  Will my mom like her?  Will my friends like her? How impressive will she be at parties with her knowledge of whatever?  How pretty does she look dressed up when we walk into a bar and guys check her out, knowing she is with me? How well does she do some activity I associate my "Self" with?  
+
+I chose some for their minds, their athleticism, their kindness, their spirituality and yes their beauty. I fed off of it.   
+
+How do you fall in love with the *idea of this person* and then they grow and change?  Can you still love them for who they are becoming?  Can you still love  them if they gave up skiing and took up knitting when that is what you do that makes you happy?
+
+We are all growing, changing, evolving.  Do you appreciate them for changing or resent them because you associate your Ego part of the relationship with that *thing?*
+
+This was all subconscious by the way, and has hit me like a ton of bricks.  
+
+If it stopped serving me then I walked away.  She is not supposed to change or be herself.  It is the programming of years of observing my father and other men around me.  He subscribes to the Harley/bikey attitude of what a woman should be. The guys he rode with had a word for it: A Seat Ornament. As in, you are supposed to sit on the back of the bike and look good and preferably slutty.  You've seen movies, you know what I am talking about.  
+
+ I watched and learned from this man who would say anything to get with women. He was slick and charming, crass and one dimensional.  I knew nothing else. It was *admirable* to me.  It is how a Real Man is supposed to act.  Women are *beneath* you.
+
+My stepfather came into my life when I was at my most rebellious. I was 15 years old and already sexually active. I knew it all.  I was angry.  My bio dad was pretty much a once a week movie and flea market trip for me and that was it. No words of wisdom from him as he sat hung over and possibly still on cocaine watching me eat the free hot dogs we got from my uncle at the restaurant he managed and where my older brother worked.   
+
+I had no positive male influence in my life.  I was screaming for attention. Daring my step dad to challenge me.  Daring anyone to tell me how to live life. 
+
+My stepfather had and still has this beautiful respect for my mother which i admire and want to emulate but no matter how much positive respectful love I saw from him, the toxic masculinity was deeply ingrained in my subconscious since a very young age.  
+
+I had no shot at a real thing, I felt I didn't really deserve the smart pretty girl in my class so I chose the blonde barbi doll.  She was two years younger than me. She was skinny and pretty and blonde and one of the meanest people I ever met.  She talked down to me whenever she could. She would call me a loser and a fucking goof and belittle me in front of our friends in her thick Boston accent. I stayed with her because she was the shell of what I thought i wanted and deserved. I was *lucky* to be with her. 
+
+She eventually cheated on me with a friend, and then another guy who got her pregnant and that was that. Later I heard she got caught stealing money from the hair salon she worked at in the town we grew up in so, ya know, little victories, big bullets dodged. 
+
+Throughout my 20s and up until I met [Brenda ](https://www.jackalopeadventures.com/blog/the-first-one/)and then later when my second engagement failed and I sort of lost my mind for a while, I thought this way.  
+
+
+
+
+
+
+
+
+
 
 
 To be continued ...
