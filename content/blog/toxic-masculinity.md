@@ -32,17 +32,19 @@ Was I *really* like that ? It's a bitter pill.  No, I couldn't have been that se
 
 ### Objects
 
-Now, to clarify, I don't think I "objectified" women in such a stereotypical, cliche, physical way.  As in: I didn't really want some Barbi doll on my arm to make me look good but I chose a partner partly because how it would look for me. We all do that to a lesser or greater extent tho, right?  Will my mom like her?  Will my friends like her? How impressive will she be at parties with her knowledge of whatever?  How pretty does she look dressed up when we walk into a bar and guys check her out, knowing she is with me? How well does she do some activity I associate my "Self" with?  
+Now, to clarify, I don't think I "objectified" women in such a stereotypical, cliche, physical way.   Except for my very first relationship (more on this in a sec) I didn't just want some barbi doll on my arm. I chose a partner partly because how it would look for me. 
+
+We all do that to a lesser or greater extent tho, right?  How will she make me look?  Will my mom like her?  Will my friends like her? How impressive will she be at parties with her knowledge of whatever?  How pretty does she look dressed up when we walk into a bar and guys check her out, knowing she is with me? How well does she do some activity I associate my "Self" with?   How does she make me look to everyone else?
 
 I chose some for their minds, their athleticism, their kindness, their spirituality and yes their beauty. I fed off of it.   
 
-How do you fall in love with the *idea of this person* and then they grow and change?  Can you still love them for who they are becoming?  Can you still love  them if they gave up skiing and took up knitting when that is what you do that makes you happy?
+How do you fall in love with the *idea of this person* and then they grow and change?  Can you still love them for who they are becoming?  Fort example, can you still love  them if they gave up skiing and took up knitting when that is what you do that makes you happy?
 
 We are all growing, changing, evolving.  Do you appreciate them for changing or resent them because you associate your Ego part of the relationship with that *thing?*
 
 This was all subconscious by the way, and has hit me like a ton of bricks.  
 
-If it stopped serving me then I walked away.  She is not supposed to change or be herself.  It is the programming of years of observing my father and other men around me.  He subscribes to the Harley/bikey attitude of what a woman should be. The guys he rode with had a word for it: A Seat Ornament. As in, you are supposed to sit on the back of the bike and look good and preferably slutty.  You've seen movies, you know what I am talking about.  
+If it stopped serving me then I walked away.  Your partner is not supposed to change or be herself.  It is the programming of years of observing my father and other men around me.  He subscribes to the Harley/bikey attitude of what a woman should be. The guys he rode with had a word for it: A Seat Ornament. As in, you are supposed to sit on the back of the bike and look good and preferably slutty and not say much.  You've seen movies, you know what I am talking about.  
 
  I watched and learned from this man who would say anything to get with women. He was slick and charming, crass and one dimensional.  I knew nothing else. It was *admirable* to me.  It is how a Real Man is supposed to act.  Women are *beneath* you.
 
@@ -57,6 +59,10 @@ I had no shot at a real thing, I felt I didn't really deserve the smart pretty g
 She eventually cheated on me with a friend, and then another guy who got her pregnant and that was that. Later I heard she got caught stealing money from the hair salon she worked at in the town we grew up in so, ya know, little victories, big bullets dodged. 
 
 Throughout my 20s and up until I met [Brenda ](https://www.jackalopeadventures.com/blog/the-first-one/)and then later when my second engagement failed and I sort of lost my mind for a while, I thought this way.  
+
+"Whoa she is hot, but SO many red flags. Of course I don't care about that because I will look so good with her and only a pussy wouldn't be able to handle her."
+
+And THAT is what our society values.  That is part of the toxic masculinity every male in this culture has to deal with.
 
 
 
