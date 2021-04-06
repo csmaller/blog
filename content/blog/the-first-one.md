@@ -4,9 +4,9 @@ date: 2021-03-09T15:18:01.124Z
 title: The First One
 description: "horriffic events "
 ---
-It has taken some time to come around and start actually writing about this.  We went through such trauma together and I have, for years, pushed it all down into the subconscious. 
+It has taken some time to come around and start actually writing about Brenda.  We went through such trauma together and I have, for years, pushed it all down into the subconscious. 
 
-Brenda (name changed) and I first met in Boston at a Spinning studio we both managed in Downtown Crossing right in the heart of the city.  It was the late 90's and Spinning was taking off as the new, hot workout.  I just gave up management as I had moved to the suburbs and took a job at a Golds Gym doing sales and away from the pain of the commute into town every day.  A friend came into the gym and told me I needed to come back to the Spin Studio. 
+Brenda and I first met in Boston at a Spinning studio we both managed in Downtown Crossing right in the heart of the city.  It was the late 90's and Spinning was taking off as the new, hot workout.  I just gave up management as I had moved to the suburbs and took a job at a Golds Gym doing sales and away from the pain of the commute into town every day.  A friend came into the gym and told me I needed to come back to the spin studio. 
 
 "Everyone misses you and your energy! Plus there is a new manager there who is really taking the studio in a good direction. You have to meet her."
 
@@ -22,13 +22,41 @@ She jumps in immediately, "When can you start working here again?  I will give y
 
 I think at the time she was right in the middle of training someone. She was all business. High energy. Direct. Confident. To the point. She knew she would get me back in the gym.  I never met anyone like her. 
 
-I somehow managed to make it work. I would drive into Southie, park somewhere near Broadway, walk a half mile to the green line, catch it to Downtown Crossing, walk to the studio, teach a noon class, maybe train someone and most importantly have lunch with Brenda at the salad bar downstairs. It was a time that seems so carefree now, twenty years later.  
+I knew I somehow had to make it work. I would drive into Southie, park somewhere near Broadway, walk a half mile to the green line, catch it to Downtown Crossing, walk to the studio, teach a noon class, maybe train someone and most importantly have lunch with Brenda at the salad bar downstairs. It was a time that seems so carefree now, twenty years later.   Sure, I can do that. Why not?
 
 She just broke it off with a long time boyfriend and moved into an apartment with a Berkley School of Music friend on Harvard Ave across town in Coolidge Corner.  
 
 I was just amazed by her. She was a Yale graduate, smart, kind, witty and would flirt and poke fun at my accent and world view. She did Ironman triathalons and would crush all the pros out of the water, but her bike sucked and her run was fast, so she would gain ground, lose ground and then have to maintain her place on the run.  She had potential to be great if she could improve her bike efficiency.  She would look at me as I spoke and really listened to what I was saying. 
 
-To anyone who have seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Elites and the Trade School Sullys.  I was raised mostly by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with ever sentence.  Calling everyone "kid" or "sweetheart".  Then here comes Brenda from Wellesley. From The Other Side.
+To anyone who have seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Elites and the Trade School Sullys.  I was raised mostly by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with ever sentence.  Calling everyone "kid" or "sweetheart".  Then came Brenda from Wellesley. From The Other Side.
+
+She was doing her thing and didn't want to date one single person.  I was confronted with the Class Barrier when she said "how are we supposed to date? How are you supposed to meet my family for dinner? You are not presbyterian, or a lawyer or doctor?"  I didn't even consider it, or any scenario where that mattered. It never crossed my mind. If I was a hard working, self made man, which i was, then your parents would see that.  But they wouldn't, she told me. It's not like that. They are not like you or me.  
+
+We dated other people. She was dating another cyclist who worked for the Red Sox and I was dating a sweet Portuguese gal named Stephanie from my home town who brought over homemade lasagna and who's father built her mother in law apartment she lived in.   One night Brenda decided, in the middle of a date with a self important lawyer, that I was the guy she wanted to be with. There were no heads up, no cell phones to text or call. When she wanted to do something, she just did it.  She had an epiphany and that was that. 
+
+So, she drove out from the middle of Boston after her shitty date and came to my house in the suburbs , didn't knock and went right up to my room while Stephanie and I were just about to fall asleep.  
+
+"Hey there is someone in the room? Corey, wake up!"
+
+There she was in the dark, her blond hair [](https://www.google.com/search?rlz=1C5CHFA_enUS847US847&sxsrf=ALeKk01gMbpx9FVEkj34p0YwRMDPAOO5dg:1617721431092&q=silhouette&spell=1&sa=X&ved=2ahUKEwjAnPv58envAhVLjp4KHXEjDFoQkeECKAB6BAgCEDA)silhouette, taking her clothes off getting ready to jump into bed with me. 
+
+"You're a piece of work"  she said,  exasperated, under her breath in the dark of my room after realizing I was with someone else. 
+
+"huh, what the fuck?" I said groggily and barely awake.  I had no idea what just happened.  She stormed out of my house and Stephanie and I sit there in my bed dumbfounded.  
+
+What happened wasn't fair to Stephanie and Brenda had no right to just decide in the midst of her epiphany to even consider my situation.  Stephanie and I just started dating and I never told her about Brenda and we never had the "What are we?" talk. 
+
+\------
+
+
+
+The next day Stephanie went to the studio to compare notes with Brenda.  Brenda left out the part where we agreed to date other people and then the two of them came to my house and practically kicked in my door and the two of them laid into me, calling me a liar and a cheater and screaming in my face.  Stephanie was heartbroken and Brenda stormed out of there, putting on a show.  
+
+An hour later Brenda returned with a wicked grin.   
+
+"Well, I got rid of that little Portuguese girl.  Now you and I can be a couple."
+
+Jesus Christ, what did I get myself into? 
 
 
 
