@@ -46,11 +46,13 @@ The fault of this is of course, I fell in love with the *idea of this person.*  
 
 There is no depth or deeper connection.  It's sharing a mutual love for something, which is all well and good, but maybe should not be the foundation of a long lasting relationship.  I have seen many relationships fall apart because one member drifts off into a different passion, leaving the other in limbo.  
 
-\----------
-
 We are all growing, changing, evolving.  Do you appreciate your partner for changing or resent them because you associate your Ego part of the relationship with that *thing* and view that change as some sort of betrayal*?*
 
-For me, It is the result of programming from years of observing my father and other men around me.  He subscribes to the hard  partying, Harley riding, blue collar bikey attitude of what a woman should be. The guys he rode with has a word for it: A Seat Ornament. As in, you are supposed to sit on the back of the bike and look good and preferably slutty and not say much.  You watch movies, you know what I am talking about.  
+\----------
+
+
+
+For me this paradigm was the result of programming from years of observing my father and other men around me.  He subscribes to the hard  partying, Harley riding, blue collar bikey attitude of what a woman should be. The guys he rode with has a word for it: A Seat Ornament. As in, you are supposed to sit on the back of the bike and look good and preferably slutty and not say much.  You watch movies, you know what I am talking about.  
 
  I watched and learned from this man. He would say anything to get with women. He was slick and charming, crass and one dimensional.  
 
