@@ -10,13 +10,15 @@ I have  come to one of those crossroads recently, and it is an eight lane super-
 
 For starters, I hate my career. I have been working as a Software Engineer for close to thirteen years. The typical person I work with is what you would expect as a stereotypical Code Bro.  Younger than me by 20 years usually, more concerned with video games and the latest gadgets and judge you by how well your movie trivia is. They rarely take care of their bodies and pride themselves on never leaving their computers and not caring about playing or following sports.  Most guys I have worked with bragged about their weekends spent cooped up playing online video games. 
 
-I chose working as an IT Engineer out of fear of not being able to make a living as I got older being a trainer and a teacher.  Computer programmers were and are in high demand.  I jumped at the chance to attend Bentley University when a client of mine said she would write a letter to the dean of the college to get me in. For a kid from a blue collar family who's entire family tree have never graduated with anything more than an associates degree, the idea of going to graduate school at a prestigious school was a chance you didn't pass up.  It didn't matter if it didn't suit your purpose or even your curiosity.  It had nothing at all to do with my passion.  As a result I have spent almost 20 years doing something I hate. Whether it was fear and greed, making my parents proud or some other necessity, I chose a career that I hated for the almighty dollar. 
+I chose working as an IT Engineer out of fear of not being able to make a living as I got older being a trainer and a teacher.  Computer programmers were and are in high demand.  I jumped at the chance to attend Bentley University when a client of mine said she would write a letter to the dean of the college to get me in. For a kid from a blue collar family who's entire family tree have never graduated with anything more than an associates degree, the idea of going to graduate school at a prestigious university was a chance you didn't pass up.  It didn't matter if it didn't suit your purpose or even your curiosity.  It had nothing at all to do with my passion.  As a result I have spent almost 20 years doing something I have grown to hate. Whether it was fear and greed, making my parents proud or some other necessity, I chose a career that I loathed for the almighty dollar. 
 
-Once I started paying attention I have also noticed that there are people in my life that I choose to keep around because I feel like I owe them something, or this sense of loyalty to them that was embedded in me from my Massachusetts roots.  These are people, to no fault of their own, I have been friends with for a very long time. We share similar interests like skiing or mountain biking, but other than these activities we don't share much else. 
+\-------
 
-My friends are all good guys. Honest, loyal, good guys. They drink beer,  joke around and rarely show any sort of emotion other than while watching sports, quoting movies or describing a hot girl.  Fashion and artistic expression are not really up their alley.  They must look at me as their sensitive artist musician friend who cares too much about spirituality and connections.   What we would call "a pussy" back in Boston.  Men don't do that in this country. We push it down. We hide behind jokes and talk about superficial shit like sports and argue about politics.
+Once I started paying attention I have also noticed that there are people in my life that I choose to keep around because I feel like I owe them something, or this sense of loyalty to them that was embedded in me from my Massachusetts roots.  These are people I have been friends with for a very long time. We share similar interests like skiing or mountain biking, but other than these activities we don't share much else. 
 
-They say, "Where is the Old Corey? The guy who was the life of the party? ready to start a fight with a guy staring at your wrong, being brash and cocky and hitting on anything in a skirt?"  In so many words I have gotten this more than once. 
+My friends are all good guys. Honest, loyal, good guys. They drink beer,  joke around and rarely show any sort of emotion other than while watching sports, quoting movies or describing a pretty woman.  Fashion and artistic expression are not  on their radar.  They must look at me as their sensitive artist musician friend who cares too much about spirituality and connections.   What we would call "a pussy"  in Boston.  Men don't do that in this country. We push it down. We hide behind jokes and talk about superficial shit like sports and argue about politics.
+
+Some would say, "Where is the Old Corey? The guy who was the life of the party? ready to start a fight with a guy staring at your wrong, being brash and cocky and hitting on anything in a skirt?"  In so many words I have gotten this more than once. 
 
 To quote Joe Peschi in GoodFellas, "what am I? a clown? Here for your amusement?"
 
@@ -26,21 +28,23 @@ When I wrote that last sentence I had to stop writing for the day.  I had to tak
 
 I didn't want to admit it.  I had a very large flaw.  I had a Blindside.
 
-The Blindside: That glaring, annoying *thing* you have that you are not aware of. The thing that everyone sees about you, that gets spoken about you by others. The thing people hate about you.  The Blindside is usually discovered as a result of brutal honesty or self reflection.  In our society it's considered rude to point it out and most people do not come right out and tell you about it.  
+The Blindside: That glaring, annoying *thing* you have that you are not aware of. The thing that everyone sees about you, that gets spoken about you by others behind your back. The thing people hate about you.  The Blindside is usually discovered as a result of brutal honesty or self reflection.  In our society it's considered rude to point it out and most people do not come right out and tell you about it.  
 
-Was I *really* like that ? It's a bitter pill.  No, I couldn't have been that selfish, right?  I meditated on it.  
+Was I *really* like that ? It's a bitter pill.  No, I couldn't have been that selfish, right? 
 
-### Objects
+### Women As Objects
 
-To clarify, I don't think I "objectified" women in such a stereotypical, cliche, physical way.   Except for my very first relationship (more on this in a second) I didn't just want some barbi doll on my arm. I chose a partner partly because how it would look for me. 
+To clarify, I don't think I "objectified" women in such a stereotypical, cliche, physical way.   I partly chose a partner based on how it would look for me. 
 
 We all do that to a lesser or greater extent tho, right?  Man or Woman.  
 
-How will she make me look?  Will my mom like her?  Will my friends like her? How impressive will she be at parties with her knowledge of whatever?  How does she make me look to everyone else?
+How will she make me look?  Will my mom like her?  Will my friends like her?  How impressive will she be at parties with her knowledge of whatever?  How does she make me look to everyone else?
 
-This was all subconscious by the way, and has hit me like a ton of bricks.  I chose some for their minds, their athleticism, their kindness, their spirituality and yes their beauty. I fed off of it.  I feel like a predator just writing about it.
+This was all subconscious by the way, and has hit me like a ton of bricks.  I chose some for their minds, their athleticism, their kindness, their spirituality and yes their beauty. I fed off of it and fell in love with that *persona*. 
 
-The fault of this is of course, We fall in love with the *idea of this person.*  Because of this you are painting the relationship into a corner.  How can you love them when they grow into something else?  For example, can you still love  them if they gave up skiing and took up knitting when that is what you associate your *Self* with?
+The fault of this is of course, I fell in love with the *idea of this person.*  Because of this I painted the relationship into a corner.  How can I still love them when they grow into something else?  For example,  how could I still love them if they gave up skiing and took up knitting when that is what I associate my *Self* with?  My Self didn't align with their Self anymore. The Ego drives the car.  My Ego associates my sense of Self with whatever it was I was reflecting off of her. I AM a mountain person because I do things in the mountains.  I AM an entertainer because I entertain.  None if this is *who* I really am but the Ego is in charge.  
+
+There is no depth or deeper connection.  It's sharing a mutual love for something, which is all well and good, but maybe should not be the foundation of a long lasting relationship.  I have seen many relationships fall apart because one member drifts off into a different passion, leaving the other in limbo.  
 
 \----------
 
@@ -74,18 +78,6 @@ Throughout my 20's, up until I met [Brenda ](https://www.jackalopeadventures.com
 
 And that is what our society values.  That is part of the toxic masculinity cycle most men in this culture has to deal with.
 
-
-
 TBC ....
-
-
-
-
-
-
-
-
-
-
 
 To be continued ...
