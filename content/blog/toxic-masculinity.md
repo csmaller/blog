@@ -62,24 +62,24 @@ Another major influencer on my view of women, my oldest brother, was and is the 
 
 When i was 11 my mother was briefly married to a second man who tried to hit me in private and talked down to and bullied me.  We had to move away from my childhood home to an apartment when they married as part of the divorce agreement with my father. 
 
-He has no relevance to this story other than he fed into my distrust of my mothers suitors, and reinforced the "All men are threats" mentality and showed me close up what a racist , bullying, asshole looked like.  During this time my bio dad was pretty much  "Once A Week Movie And Flea Market Trip On A Sunday Dad". No words of wisdom from him as he sat hung over, checking his watch and possibly still on cocaine watching me eat the free hot dogs we got from my uncle at the restaurant he managed and where my older brother worked.   This was our weekly routine.  
+He has no relevance to this story other than he fed into my distrust of my mother's suitors, and reinforced the "All men are threats" mentality and showed me close up what a racist, bullying, asshole looked like.  During this time my bio dad was pretty much  "Movie And Flea Market Trip On A Sunday" Dad. 
+
+No words of wisdom from him as he sat hung over, checking his watch and possibly still on cocaine while I ate the free hot dogs we got from my uncle at the restaurant he managed and where my older brother worked.   This was our weekly routine.  
 
 My current stepfather came into my life when I was at my most rebellious. I was 15 years old and already sexually active. I knew it all.  I was angry.  I didn't trust him at all. He was just another asshole to me.
 
-The first time I ever got so drunk that I puked everywhere at a party and blacked out and made out with a friends girlfriend my father picked me up the next day for our weekly ritual and he didn't even notice his teenage son turning into him.  Hungover and proud that I was becoming him.  I bragged about how I drank so much that I threw up all night. He didn't say a word. 
+The first time I ever really drank I got so drunk that I puked everywhere at a party. I  blacked out and made out with a friends girlfriend.  My father picked me up the next day for our weekly ritual and he didn't even notice his teenage son turning into him.  I was hungover and proud that I was becoming him.  I bragged about how I drank so much that I threw up all night. He didn't say a word. 
 
- I was screaming for attention. Begging my father for approval, daring my step dad to challenge me.  Daring anyone to tell me how to live my life.  My grades tumbled, I started hanging out with the burnouts, discovered weed and cigarettes and stopped caring about playing sports or doing well at school. 
+ I was screaming for attention. Begging my father for approval, daring my step dad to challenge me.  Daring anyone to tell me how to live my life.  My grades tumbled, I started hanging out with the burnouts and learned how to smoke cigarettes in the school bathroom.  I discovered drugs and stopped caring about playing sports or doing well at school. 
 
 This toxic masculinity was deeply ingrained in my subconscious since a very young age.  
 
-I had no shot at a real connection and healthy relationship.  I chose the vapid, narcissistic, vicious blonde barbi doll two years younger than me.  She was skinny and pretty and one of the meanest people I ever met.  She talked down to me whenever she could. She would call me a 'loser' and a 'fucking goof'  and belittle me in front of our friends in her thick Boston accent. I stayed with her because she was the *idea* of what I thought i wanted and deserved. I was *lucky* to be with her.  I wasn't going to get any better than this. She was my Seat Ornament.
+I had no shot at a real connection and healthy relationship.  I chose the vapid, narcissistic, vicious blonde two years younger than me.  She was skinny and pretty and one of the meanest people I ever met.  She talked down to me whenever she could. She would call me a 'loser' and a 'fucking goof'  and belittle me in front of our friends, chewing her gum in her thick Boston accent. I stayed with her because she was the *idea* of what I thought i wanted and deserved. I was *lucky* to be with her.  I wasn't going to get any better than this. She was my Seat Ornament.
 
 She eventually cheated on me with a guy I knew, and then another guy who got her pregnant and that was that. Later I heard she got caught stealing money from the hair salon she worked at in the town we grew up in so, ya know, little victories, big bullets dodged. 
 
 Throughout my 20's, up until I met [Brenda ](https://www.jackalopeadventures.com/blog/the-first-one/)and then later when my second engagement failed and I sort of lost my mind for a while, I went back to my old ways. Discarding any lessons I learned. Giving up. It has taken a divorce, more bad decisions and more hard introspection to see this.
 
 And that is what our society values.  That is part of the toxic masculinity cycle most men in this culture has to deal with.
-
-TBC ....
 
 To be continued ...
