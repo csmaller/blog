@@ -64,6 +64,18 @@ An hour later Brenda returned with a wicked grin.
 
 Jesus Christ, what did I get myself into? 
 
+\-------
+
+Although that was crazy red flag behavior, my 28 year old self found it romantic.  I was smitten with her and that was, to me, just another quirk to her passion.  We started to see each other more in public.  Our spin studio family started to see us as a couple.  I didn't even think about meeting her family or the class separation of being from the wrong side of the tracks. It never occurred to me that I wouldn't completely amaze her gatekeeper mom with my street smarts, wit and smile.  
+
+I spoke with her mother once on the phone and I don't think she knew about Brenda and I. She was hiring me to DJ a party or a wedding, I don't remember.  I do remember she was kind and funny, just like her daughter, and had that personality that shined even through the old land line phone we were speaking on. 
+
+I never got the chance to meet her in person.  On Halloween morning, 1999, Brenda's mother was murdered in Wellesley park while walking her two german shepherds.  It was a huge story for obvious reasons:  Nothing bad happens in Wellesley. It's a very rich, dry town with a prominent women's college and a median income high above most towns in the country.  
+
+It got even more attention when, on New Years Day, Brenda's father was arrested for the murder.   He was a well known and respected allergy doctor and the family was known in the town as a tightly knit loving unit.  
+
+Brenda was, of course, devastated.  Can you even imagine it?  This family of educated beautiful people, destroyed by this horrible event.  The case got national attention for obvious reasons, and was the first featured all-day story on courttv.   The internet was still dial up, AOL chat rooms and Netscape Navigator but as I saw first hand, the ugliness of society was already on display in the chat rooms of the day.  
+
 
 
 To be continued ....
