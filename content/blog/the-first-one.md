@@ -30,7 +30,7 @@ She was all business with a slight flirtation. High energy. Direct. Confident. T
 
 I knew I somehow had to make it work. I would drive into South Boston, park somewhere near Broadway, walk a half mile to the green line, catch it to Downtown Crossing, walk to the studio, teach a noon class, maybe train someone and most importantly have lunch with Brenda at the salad bar downstairs.  Sure, I can do that. Why not?  It was a time that seems so carefree now, twenty years later.     
 
-I was just amazed by her.  She was a Yale graduate, smart, kind, witty and would flirt and poke fun at my accent and world view. She did Ironman triathalons and would crush all the pros out of the water, but her bike sucked and her run was fast, so she would gain ground, lose ground and then have to maintain her place on the run.  She had potential to be great if she could improve her bike efficiency.  She would look at me as I spoke and really listened to what I was saying. 
+I was just amazed by her.  She was a Yale graduate, smart, kind, witty and would flirt and poke fun at my accent and world view. She did Ironman triathalons and would crush all the pros out of the water.  She would look at me as I spoke and really listened to what I was saying. 
 
 Over lunch she  told me she just broke it off with a long time boyfriend and moved into an apartment with a Berkley School of Music friend on Harvard Ave across town in Coolidge Corner. I barely hid my optimism.
 
