@@ -88,6 +88,8 @@ Random chat room trolls would comment on her or her sister's look and make sexua
 
 Brenda took it all in stride.   Not only was she going through all of this but she convinced me to train with her for the Ironman in Lake Placid. I was also trying to start my personal training business and taught several classes in Boston.  I was racing mountain bikes and looking at going to graduate school.  
 
+\-------------
+
 The summer before the trial started we went to her sisters wedding in Denmark and then to Italy to get away.  I had the ring and asked her to marry me in Florence and she said yes. We agreed that once the trial was over we would plan the wedding.  
 
 Brenda was convinced of her fathers innocence and wanted him to give her away "once he won the case".  At the same time the evidence and motives in the murder were piling up against him. The outlook did not look good for him and in August of 2000 he lost and was sentenced to life in prison.  Brenda was absolutely destroyed and there was nothing I could do to make it better.
