@@ -78,7 +78,7 @@ I spoke with her mother once on the phone and I don't think she knew about Brend
 
 I never got the chance to meet Brenda's mother in person.  On Halloween morning in 1999 Brenda's mother was murdered in Wellesley park while walking her two german shepherds.  
 
-It was a huge story for obvious reasons:  A beautiful tight knit family torn apart.  Three beautiful, smart kids.  A woman well known and loved in her community.  Also,  nothing bad happens in Wellesley. It's a very rich, dry town with a prominent women's college and a median income way above most towns in the country.  
+It was a huge story for obvious reasons:  A beautiful tight knit family torn apart.  Three beautiful, smart kids.  A woman well known and loved in her community.  Also, nothing bad happens in Wellesley. It's a very rich, dry town with a prominent women's college and a median income way above most towns in the country.  
 
 It got even more attention when, on New Years Day, Brenda's father was arrested for the murder.   He was a well known and respected allergy doctor and  it sent a shockwave through the community. 
 
@@ -86,7 +86,7 @@ Brenda was, of course, devastated.  Can you even imagine it?  This family of edu
 
 Random chat room trolls would comment on her or her sister's look and make sexual or rude comments.  Brenda was and is a stunning, beautiful, fit woman with curly blonde hair and stood out wherever she went so it was sort of impossible to live a normal life anymore. Because she stated publicly that she believed her father was innocent which lead to letters from convicts in prison stating their love for her. Random people on the street would stop us and say things like "I'm so sorry for what you are going through".  I was all so bizarre and sad and frightening.  People would stare at us and talk under their breath sitting near us so they could hear what we were saying. 
 
-Brenda took it all in stride.   Not only was she going through all of this but we were both at the time training for an Ironman in Lake Placid. I was trying to start my personal training business and taught several classes in Boston.  I was racing mountain bikes and looking at going to graduate school.  
+Brenda took it all in stride.   Not only was she going through all of this but she convinced me to train with her for the Ironman in Lake Placid. I was also trying to start my personal training business and taught several classes in Boston.  I was racing mountain bikes and looking at going to graduate school.  
 
 The summer before the trial started we went to her sisters wedding in Denmark and then to Italy to get away.  I had the ring and asked her to marry me in Florence and she said yes. We agreed that once the trial was over we would plan the wedding.  
 
