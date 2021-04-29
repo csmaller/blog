@@ -2,7 +2,7 @@
 path: the-first
 date: 2021-03-09T15:18:01.124Z
 title: My First Love
-description: my first love, murder, despair and redemption
+description: " love, despair and redemption"
 ---
 It has taken some time to come around and start actually writing about Brenda.  We went through such trauma together and I have, for years, pushed it all down into the subconscious. 
 
