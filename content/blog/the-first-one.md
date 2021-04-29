@@ -106,9 +106,11 @@ We learned salsa and swing dancing on Thursday nights.  I would show up and meet
 
 It was heartbreaking.   While most 28-30 year olds in love were settling down and having a family we were dealing with a horrible very public murder trial, a family torn apart,  my business failing because I was always tending to her needs, our relationship falling apart.  Journalists calling the house and filming us and following us around, stories written up daily on the front page of the Boston Globe and the Herald.  The  fledgling 24/7 news programming that fed on anything  and making us its fodder. 
 
-That September 11th the whole world changed and the media forgot all about us.  We were left in the flotsam of it all.  To finally lick out wounds in private but it was too late to save us.  I was starting to slip into my own depression. I drank more. I smoked pot daily.  I always say it's as if she were drowning and I swam out to save her only to have her pull me under with her as well.  I had to save myself and swim to shore. I couldn't do it anymore and she knew it.  
+Then September 11th happened and the whole world changed and the media forgot all about us.  We were left in the flotsam of it all.  To finally lick out wounds in private but it was too late to save us.  I was starting to slip into my own depression. I drank more. I smoked pot daily.  
 
-During a weekend at Loon Mountain where I shared a ski house we got into a huge fight at dinner.  The next day I skied on my own at another mountain further away.  When I came back she showed me her wrists and her attempt at suicide.  Crying and shameful I stood in shock while all the other ski house people watched.  My college roommate was with us and he drove us home while she sat in the back seat and i sat horrified and embarrassed in the front seat.  
+I always say it's as if she were drowning and I swam out to save her only to have her pull me under with her as well.  I had to save myself and swim to shore. I couldn't do it anymore and she knew it.  
+
+During a weekend at Loon Mountain where I shared a ski house we got into a huge fight at dinner.  The next day I skied on my own at another mountain further away.  When I came back she showed me her wrists and her attempt at suicide.  Crying and shameful I stood in shock while all the other ski house people watched.  My college roommate was with us and he drove us home while she sat in the back seat and i sat horrified and embarrassed in the front seat.  I handled it all wrong. I was broken. I couldn't do it anymore.
 
 When we got to her house I walked her in and told her I was done.  Brenda cried hysterically and pushed me away telling me to leave. Screaming at me. Shoving my ring into my hand. 
 
@@ -120,14 +122,16 @@ To this day I regret how it ended.  I regret leaving her. I feel like I failed h
 
 \-------------
 
-Brenda eventually met a man, a dog trainer, and married him and started a family.  We recently got back in touch and went out to dinner while I was home for Christmas before Covid hit.  The same humor and smile and spark was there. We gave each other a long, much needed hug and then chuckled at what age has done to us: A few more wrinkles and some extra pounds and gray hairs.  
+Brenda eventually met a man, a dog trainer, and married him and started a family.  We recently got back in touch and went out to lunch while I was home for Christmas before Covid hit.  The same humor and smile and spark was there. We gave each other a long, much needed hug and then chuckled at what age has done to us: A few more wrinkles and some extra pounds and gray hairs.  
 
 We spoke about the good times and the bad, the regret, the joy of being in love in our youth, the trips we took and all the horror we went through together as a team.  She apologized and I apologized and we sat there like two kids again for a second. 
 
 I needed closure.  I needed forgiveness for leaving when I did and how I did.  Mostly I just wanted to see my friend again.  I wanted to see the love, and humor, and care in her eyes again and to know that she was ok and at peace and happy.  
 
-She had three boys and many dogs and drove a van. She had purpose.  She laughed that none of them were into the Red Sox or watched the Patriots or were really athletic like we used to be.  She still had the same voice, the same laugh, the same intense look in her eyes when I told her about my life. Like i was still the only person in the room.  
+She had three boys and many dogs and drove a van. She had purpose.  She laughed that none of them were into the Red Sox or watched the Patriots or were really athletic like we used to be.  She still had the same voice, the same laugh, the same intense look in her eyes when I told her about my life. Like I was still the only person in the room.  
 
-Brenda and I still love each other but from afar and that was ok.  Our love grew to the different kind of love that comes with age and pain and wisdom and lost things.  Things mishandled that only hindsight lets you see.  We have a friendship and a bond that you can't possibly have with anyone else after all the tragedy we went through.  
+Brenda and I still love each other but from afar and I think that is ok.  Our love grew to the different kind of love that comes with age and pain and wisdom and lost things.  Things mishandled that only hindsight lets you see.  
+
+We have a friendship and a bond that you can't possibly have with anyone else after all the tragedy we went through.  
 
 After lunch she dropped me off at Logan Airport. With her three dogs in the back I waved goodbye on the curb, turned around, put my headphones in, wiped the tears away and walked in to catch my flight back to my life.
