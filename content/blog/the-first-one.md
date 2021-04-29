@@ -6,7 +6,7 @@ description: " love, despair and redemption"
 ---
 It has taken some time to come around and start actually writing about Brenda.  We went through such trauma together and I have, for years, pushed it all down into the subconscious. 
 
-To anyone who have seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Chads and the Trade School Sullys.  I was raised by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with every sentence.  Calling everyone "kid" or "sweetheart".  Then came Brenda from Wellesley.  Brenda from The Other Side.
+To anyone who has seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Chads and the Trade School Sullys.  I was raised by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with every sentence.  Calling everyone "kid" or "sweetheart".  Then came Brenda from Wellesley.  Brenda from The Other Side.
 
  It was the late 90's and Spinning was taking off as the new, hot workout.  I just gave up managing a spinning studio as I had moved to the suburbs and took a job at a Golds Gym doing sales and away from the pain of the commute into town every day.  
 
