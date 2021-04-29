@@ -6,13 +6,15 @@ description: " love, despair and redemption"
 ---
 It has taken some time to come around and start actually writing about Brenda.  We went through such trauma together and I have, for years, pushed it all down into the subconscious. 
 
-To anyone who has seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Chads and the Trade School Sullys.  I was raised by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with every sentence.  Calling everyone "kid" or "sweetheart".  Then came Brenda from Wellesley.  Brenda from The Other Side.
+To anyone who has seen Goodwill Hunting you know there are two distinct classes in Boston: The Haves and Have-Nots, the Blue Collars and the White Collars, the Harvard Chads and the Trade School Sullys. 
+
+I was raised by my single mother from Dorchester who had to bartend to make ends meet.  My father was an MBTA bus driver also from Dorchester.  We were firmly in the Blue Collar mindset.  Dropping our R's and "ings", saying "fuck" with every sentence.  Calling everyone "kid" or "sweetheart".  Then came Brenda from Wellesley.  Brenda from The Other Side.
 
  It was the late 90's and Spinning was taking off as the new, hot workout.  I just gave up managing a spinning studio as I had moved to the suburbs and took a job at a Golds Gym doing sales and away from the pain of the commute into town every day.  
 
 One day a friend came into the Golds I was working at and told me I needed to come back to the spin studio. 
 
-"Everyone misses you and your energy! Plus there is a new manager there who is really taking the studio in a good direction. You have to meet her."
+"Everyone misses you and your energy!  Plus there is a new manager there who is really taking the studio in a good direction. You have to meet her."
 
 A week later I strolled back into the Studio and met Brenda.  
 
@@ -22,7 +24,7 @@ I was taken aback.  She was beautiful. Blonde curls, no makeup, very fit, very o
 
 "um, er, yeah. Hi."
 
-She jumps in immediately, "When can you start working here again?  I will give you your old time slot back and to make it worth your while we are starting personal training in the extra space and you could pick up some clients after your class."
+She jumps in immediately, speaking rapidly, "When can you start working here again?  I will give you your old time slot back and to make it worth your while we are starting personal training in the extra space and you could pick up some clients after your class."
 
 She was all business with a slight flirtation. High energy. Direct. Confident. To the point. She knew she would get me back in the gym.  She could see I was smitten immediately. I never met anyone like her. 
 
