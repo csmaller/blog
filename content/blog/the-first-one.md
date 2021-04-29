@@ -94,11 +94,11 @@ The summer before the trial started we went to her sisters wedding in Denmark an
 
 Brenda was convinced of her fathers innocence and wanted him to give her away "once he won the case".  At the same time the evidence and motives in the murder were piling up against him. The outlook did not look good for him and in August of 2000 he lost and was sentenced to life in prison.  Brenda was absolutely destroyed and there was nothing I could do to make it better.
 
-We had to put marriage on hold as her hope faded.  She was slipping into depression and bouts of anger and rage would take over and she would take it out on me.  The woman I knew who could walk into any room and make anyone feel comfortable, who could own the room with a smile, was now deteriorating mentally in front of my eyes.  Where she used to wake up at 5 to swim with the Harvard masters for triathalon training, she was now sleeping till noon.  Smoking pot regularly and not caring about much of anything. 
+We had to put marriage on hold as her hope faded.  She was slipping into depression and bouts of anger and rage would take over and she would take it out on me.  The woman I knew who could walk into any room and make anyone feel comfortable, who could own the room with a smile, was now deteriorating mentally in front of my eyes.  Where she used to wake up at five to swim with the Harvard masters, she was now sleeping till noon.  Smoking pot regularly and not caring about much of anything. 
 
- I remember taking her to a party with people she knew and I found her outside with the dogs.  She was so averse to crowds and people that she just wanted to be with animals.  She couldn't handle it. She hated the attention, hated being the martyr.  She wanted out. 
+I remember taking her to a party with people she knew and I found her outside with the dogs.  She was so averse to crowds and people that she just wanted to be with animals.  She couldn't handle it. She hated the attention, hated being the martyr.  She wanted out and I could not blame her.
 
-Brenda started cutting herself and pulling her hair out.  She would get hysterical and curl up on my bathroom floor wailing.  I watched in horror. I didn't know what to do.  I couldn't console her or make it better. 
+Shit got dark.  Brenda started cutting herself and pulling her hair out.  She would get hysterical and curl up on my bathroom floor wailing.  I watched in horror. I didn't know what to do.  I couldn't console her or make it better. I was lost and in private I cried frustrated tears.  I was lost and scared for her and for us. 
 
  We started seeing a therapist together and apart.  I moved back into my old house with my old roommate and on our therapists recommendations, went back to dating and doing one night a week Date Night.  
 
