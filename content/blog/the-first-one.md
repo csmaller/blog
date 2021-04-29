@@ -2,7 +2,7 @@
 path: the-first
 date: 2021-03-09T15:18:01.124Z
 title: The First One
-description: "horriffic events "
+description: my first love and all the bad things that happened
 ---
 It has taken some time to come around and start actually writing about Brenda.  We went through such trauma together and I have, for years, pushed it all down into the subconscious. 
 
@@ -70,12 +70,58 @@ Although that was crazy red flag behavior, my 28 year old self found it romantic
 
 I spoke with her mother once on the phone and I don't think she knew about Brenda and I. She was hiring me to DJ a party or a wedding, I don't remember.  I do remember she was kind and funny, just like her daughter, and had that personality that shined even through the old land line phone we were speaking on. 
 
-I never got the chance to meet her in person.  On Halloween morning, 1999, Brenda's mother was murdered in Wellesley park while walking her two german shepherds.  It was a huge story for obvious reasons:  Nothing bad happens in Wellesley. It's a very rich, dry town with a prominent women's college and a median income high above most towns in the country.  
+\--------
 
-It got even more attention when, on New Years Day, Brenda's father was arrested for the murder.   He was a well known and respected allergy doctor and the family was known in the town as a tightly knit loving unit.  
+I never got the chance to meet Brenda's mother in person.  On Halloween morning in 1999 Brenda's mother was murdered in Wellesley park while walking her two german shepherds.  
 
-Brenda was, of course, devastated.  Can you even imagine it?  This family of educated beautiful people, destroyed by this horrible event.  The case got national attention for obvious reasons, and was the first featured all-day story on courttv.   The internet was still dial up, AOL chat rooms and Netscape Navigator but as I saw first hand, the ugliness of society was already on display in the chat rooms of the day.  
+It was a huge story for obvious reasons:  A beautiful tight knit family torn apart.  Three beautiful, smart kids.  A woman well known and loved in her community.  Also,  nothing bad happens in Wellesley. It's a very rich, dry town with a prominent women's college and a median income way above most towns in the country.  
 
+It got even more attention when, on New Years Day, Brenda's father was arrested for the murder.   He was a well known and respected allergy doctor and  it sent a shockwave through the community. 
 
+Brenda was, of course, devastated.  Can you even imagine it?  This family of educated beautiful people, destroyed by this horrible event.  The case got national attention and was the first featured all-day story on court-tv.   At the time the internet was still dial up, AOL chat rooms and Netscape Navigator but as I saw first hand, the ugliness of society was already on display in the chat rooms of the day.   
 
-To be continued ....
+Random chat room trolls would comment on her or her sister's look and make sexual or rude comments.  Brenda was and is a stunning, beautiful, fit woman with curly blonde hair and stood out wherever she went so it was sort of impossible to live a normal life anymore. Because she stated publicly that she believed her father was innocent which lead to letters from convicts in prison stating their love for her. Random people on the street would stop us and say things like "I'm so sorry for what you are going through".  I was all so bizarre and sad and frightening.  People would stare at us and talk under their breath sitting near us so they could hear what we were saying. 
+
+Brenda took it all in stride.   Not only was she going through all of this but we were both at the time training for an Ironman in Lake Placid. I was trying to start my personal training business and taught several classes in Boston.  I was racing mountain bikes and looking at going to graduate school.  
+
+The summer before the trial started we went to her sisters wedding in Denmark and then to Italy to get away.  I had the ring and asked her to marry me in Florence and she said yes. We agreed that once the trial was over we would plan the wedding.  
+
+Brenda was convinced of her fathers innocence and wanted him to give her away "once he won the case".  At the same time the evidence and motives in the murder were piling up against him. The outlook did not look good for him and in August of 2000 he lost and was sentenced to life in prison.  Brenda was absolutely destroyed and there was nothing I could do to make it better.
+
+We had to put marriage on hold as her hope faded.  She was slipping into depression and bouts of anger and rage would take over and she would take it out on me.  The woman I knew who could walk into any room and make anyone feel comfortable, who could own the room with a smile, was now deteriorating mentally in front of my eyes.  Where she used to wake up at 5 to swim with the Harvard masters for triathalon training, she was now sleeping till noon.  Smoking pot regularly and not caring about much of anything. 
+
+ I remember taking her to a party with people she knew and I found her outside with the dogs.  She was so averse to crowds and people that she just wanted to be with animals.  She couldn't handle it. She hated the attention, hated being the martyr.  She wanted out. 
+
+Brenda started cutting herself and pulling her hair out.  She would get hysterical and curl up on my bathroom floor wailing.  I watched in horror. I didn't know what to do.  I couldn't console her or make it better. 
+
+ We started seeing a therapist together and apart.  I moved back into my old house with my old roommate and on our therapists recommendations, went back to dating and doing one night a week Date Night.  
+
+We learned salsa and swing dancing on Thursday nights.  I would show up and meet her at Coolidge Corner Clubhouse in Brookline near where she used to live.  Some place familiar.   I would see the worry on her face when we would meet.  She always looked so beautiful.  Brenda would fidget and wring her hands and look at me during small talk,  pretending that all was well.  Her eyes always told a different story, As if to say "Just don't leave me alone!  Don't leave me! You are all I have!"  
+
+It was heartbreaking.   While most 28-30 year olds in love were settling down and having a family we were dealing with a horrible very public murder trial, a family torn apart,  my business failing because I was always tending to her needs, our relationship falling apart.  Journalists calling the house and filming us and following us around, stories written up daily on the front page of the Boston Globe and the Herald.  The  fledgling 24/7 news programming that fed on anything  and making us its fodder. 
+
+That September 11th the whole world changed and the media forgot all about us.  We were left in the flotsam of it all.  To finally lick out wounds in private but it was too late to save us.  I was starting to slip into my own depression. I drank more. I smoked pot daily.  I always say it's as if she were drowning and I swam out to save her only to have her pull me under with her as well.  I had to save myself and swim to shore. I couldn't do it anymore and she knew it.  
+
+During a weekend at Loon Mountain where I shared a ski house we got into a huge fight at dinner.  The next day I skied on my own at another mountain further away.  When I came back she showed me her wrists and her attempt at suicide.  Crying and shameful I stood in shock while all the other ski house people watched.  My college roommate was with us and he drove us home while she sat in the back seat and i sat horrified and embarrassed in the front seat.  
+
+When we got to her house I walked her in and told her I was done.  Brenda cried hysterically and pushed me away telling me to leave. Screaming at me. Shoving my ring into my hand. 
+
+"GO! JUST GO!" She screamed at me when I tried a feeble apology.  
+
+I remember driving away from her parents home that she moved back into to take care of, seeing her on the front lawn, devastated and alone. 
+
+To this day I regret how it ended.  I regret leaving her. I feel like I failed her and let her go.  
+
+\-------------
+
+Brenda eventually met a man, a dog trainer, and married him and started a family.  We recently got back in touch and went out to dinner while I was home for Christmas before Covid hit.  The same humor and smile and spark was there. We gave each other a long, much needed hug and then chuckled at what age has done to us: A few more wrinkles and some extra pounds and gray hairs.  
+
+We spoke about the good times and the bad, the regret, the joy of being in love in our youth, the trips we took and all the horror we went through together as a team.  She apologized and I apologized and we sat there like two kids again for a second. 
+
+I needed closure.  I needed forgiveness for leaving when I did and how I did.  Mostly I just wanted to see my friend again.  I wanted to see the love, and humor, and care in her eyes again and to know that she was ok and at peace and happy.  
+
+She had three boys and many dogs and drove a van. She had purpose.  She laughed that none of them were into the Red Sox or watched the Patriots or were really athletic like we used to be.  She still had the same voice, the same laugh, the same intense look in her eyes when I told her about my life. Like i was still the only person in the room.  
+
+Brenda and I still love each other but from afar and that was ok.  Our love grew to the different kind of love that comes with age and pain and wisdom and lost things.  Things mishandled that only hindsight lets you see.  We have a friendship and a bond that you can't possibly have with anyone else after all the tragedy we went through.  
+
+After lunch she dropped me off at Logan Airport. With her three dogs in the back I waved goodbye on the curb, turned around, put my headphones in, wiped the tears away and walked in to catch my flight back to my life.
