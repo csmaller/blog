@@ -19,7 +19,7 @@ export default function Layout(props) {
       <>
         <div className="col-lg-1 col-4">
           <Link to={`/`} >
-            <img src={Logo} class="float-left" />
+            <img src={Logo} className="float-left" />
           </Link>
         </div>
         <nav className="col-lg-11 col-8 mb-4 mt-0 justify-content-left bg-primary mt-4 p-0">
