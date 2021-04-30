@@ -36,7 +36,7 @@ function MainContent() {
         </p>
         <br />
         <ul>
-          <li>Almost 30 years experience as a coach and trainer</li>
+          <li>30 years experience as a coach and trainer</li>
           <li>AIARE Avalanche Level 1 Certified </li>
           <li>15 years of touring the Wasatch Range</li>
         </ul>
