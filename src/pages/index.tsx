@@ -1,4 +1,4 @@
-import React, {useEffect} from "react"
+import React, { useEffect } from "react"
 import styled from "styled-components";
 import HeroImage from "../../content/assets/superior_rectangle.png";
 import Layout from "../components/layout"
@@ -41,20 +41,27 @@ const MainContainer = styled.div`
 
 function MainContent() {
   return (
-      <div id="divOverlay" data-overlay-display="True"  class="overlay bg-primary">
-        <h2 class="heading2 content white" id="why_mountain_america_3">Welcome to Jackalope Adventures</h2>
-      </div>
+    <div id="divOverlay" data-overlay-display="True" className="overlay bg-primary">
+      <h2 className="heading2 content white" >Welcome to Jackalope Adventures</h2>
+      <p>Whether it's learning skills on the mountain bike, 
+          training hard for that big race, 
+          learning how to rock climb,
+          finding the deep untracked lines,
+          or exploring one of the many great ski resorts in the Wasatch 
+          Jackalope Adventures will be your guide.
+          
+      </p>
+    </div>
   );
-
 }
 
 export default function IndexPage(props) {
 
-  useEffect(()=>{
-    if(typeof "window" !=="undefined"){
+  useEffect(() => {
+    if (typeof "window" !== "undefined") {
       ReactGA.pageview(window.location.pathname + window.location.search);
     }
-  },[])
+  }, [])
 
   const siteTitle = "Jackalope Adventures"
 

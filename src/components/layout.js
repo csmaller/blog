@@ -18,13 +18,16 @@ export default function Layout(props) {
     return (
       <>
         <div className="col-lg-1 col-4">
-          <Link to={location.pathname === blogPath ? `/` : `/`} >
+          <Link to={`/`} >
             <img src={Logo} class="float-left" />
           </Link>
         </div>
         <nav className="col-lg-11 col-8 mb-4 mt-0 justify-content-left bg-primary mt-4 p-0">
           <Link to="/" disabled={location.pathname === "/"}>
             <Button marginTop="35px">Home</Button>
+          </Link>
+          <Link to="/about/" disabled={location.pathname === "/about/"}>
+            <Button marginTop="35px">About</Button>
           </Link>
           <Link to="/blog/" disabled={location.pathname === "/blog/"}>
             <Button marginTop="35px">Blog</Button>
