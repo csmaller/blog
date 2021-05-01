@@ -4,7 +4,7 @@ import HeroImage from "../../content/assets/superior_rectangle.png";
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import ReactGA from 'react-ga';
-ReactGA.initialize('UA-177166710-1');
+ReactGA.initialize(process.env.GOOGLE_ID);
 
 const HeroContainer = styled.div`
   background-size: cover;

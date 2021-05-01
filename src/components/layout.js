@@ -29,9 +29,12 @@ export default function Layout(props) {
           <Link to="/about/" disabled={location.pathname === "/about/"}>
             <Button marginTop="35px">About</Button>
           </Link>
-          <Link to="/blog/" disabled={location.pathname === "/blog/"}>
-            <Button marginTop="35px">Blog</Button>
+          <Link to="/contact/" disabled={location.pathname === "/contact/"}>
+            <Button marginTop="35px">Contact</Button>
           </Link>
+          {/* <Link to="/blog/" disabled={location.pathname === "/blog/"}>
+            <Button marginTop="35px">Blog</Button>
+          </Link> */}
         </nav>
       </>
     );

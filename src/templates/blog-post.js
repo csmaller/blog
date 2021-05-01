@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
 import ReactGA from 'react-ga';
-ReactGA.initialize('UA-177166710-1');
+ReactGA.initialize(process.env.GOOGLE_ID);
 
 const BlogPostTemplate = (props) => {
 

@@ -25,26 +25,48 @@ function MainContent() {
   return (
     <div className="row">
       <div className="col-12 col-lg-6 text-justify">
-        <h4>Corey Smaller</h4>
-        <p className="mt-3 mb-0 font-weight-bold">Masters of Science - Information Technology</p>
-        <p className="pl-4 smaller-font">Bentley McCallum School of Business- Waltham, MA </p>
-        <p className="mt-3 mb-0 font-weight-bold">Bachelors of Science - Exercise Physiology</p>
-        <p className="pl-4 smaller-font">Bridgewater State University - Bridgewater, MA
-        </p>
-        <p className="mt-3 mb-0 font-weight-bold ">Associates of Arts - Communications</p>
-        <p className="pl-4 smaller-font">Dean College - Franklin, MA
-        </p>
-        <br />
-        <ul>
-          <li>30 years experience as a coach and trainer</li>
-          <li>AIARE Avalanche Level 1 Certified </li>
-          <li>15 years of touring the Wasatch Range</li>
-        </ul>
-      </div>
-      <div className="col-12 col-lg-6">
-        <img src={Self} className="float-left" />
-      </div>
+        <div>
+          <h6>Jackalope Adventures is all about adventure, learning and growth in a safe and fun way.<br/>
+         </h6>
+         <br/>
+          <h5>Our passion:</h5>
+          <ul>
+            <li>Teaching first time mountain bikers</li>
+            <li>Mountain bike clinics</li>
+            <li>Mountain bike guiding in the Wasatch. Group rides or individual</li>
+            <li>Backcountry off-piste ski and snowboard touring (gear required)</li>
+            <li>In-bounds resort guiding</li>
+            <li>Ski and snowboard private lessons</li>
+          </ul>
+        </div>
+        <div className="pt-4">
+
+          <h5>Owner: Corey Smaller</h5>
+          <ul>
+            <li>30 years experience as a coach and trainer</li>
+            <li>15 years of ski-touring the Wasatch Range</li>
+            <li>Skiing and snowboarding instructor</li>
+            <li>Instructed at Park City Mountain Resort and Snowbird Resort</li>
+            <li>Competed in several disciplines in cycling - cross country, road, crits, downhill and Super D</li>
+          </ul>
+          <br />
+          <h5>Education:</h5>
+          <ul>
+            <li>Masters of Science - Information Technology</li>
+            <li>Bachelors of Science - Exercise Physiology</li>
+            <li>Associates of Arts - Communications</li>
+            <li>AIARE Avalanche Level 1 Certified </li>
+            <li>ACSM certified, CPR, First Aid</li>
+          </ul>
+        
+        </div>
+        </div >
+        <div className="col-12 col-lg-6">
+          <img src={Self} className="float-left" />
+        </div>
+      
     </div>
+
   );
 
 }
