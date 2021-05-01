@@ -4,13 +4,14 @@ import { Button } from "react-bootstrap";
 import "../../style.scss";
 import Logo from "../../content/assets/logo_no_bg.png";
 import styled from "styled-components";
-import { SocialIcon } from 'react-social-icons'
+import { SocialIcon } from 'react-social-icons';
+import classNames from "classnames";
 
 import { Container } from "react-bootstrap";
 
 export default function Layout(props) {
 
-  const { location, title, children, background } = props
+  const { location, title, children, background, layoutClass } = props
   const rootPath = `${__PATH_PREFIX__}/`
   const blogPath = `${__PATH_PREFIX__}/blog/`
 
@@ -48,7 +49,7 @@ export default function Layout(props) {
           <HeaderContainer className="row mb-0">
             <Header />
           </HeaderContainer>
-          <div className="row">
+          <div className={classNames(layoutClass, "row")}>
             <main className="px-2 px-lg-0">{children}</main>
           </div>
         </LayoutContainer>

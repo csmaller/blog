@@ -37,16 +37,11 @@ export default function Contact(props) {
     const handleChange = e => setData({ ...data, [e.target.name]: e.target.value });
     const { name, email, message } = data;
     return (
-        <Layout location={props.location} title={siteTitle}>
+        <Layout location={props.location} title={siteTitle} layoutClassName="justify-content-center">
             <SEO
                 title="Contact"
                 keywords={[`utah ski touring`, 'backcountry skiing utah', 'ski and snowboard instructor utah']}
             />
-            <div className="row py-5">
-                <div className="col-12 text-center">
-                    <h3>Contact Us</h3>
-                </div>
-            </div>
             <div className="row">
                 <div className="col-12 col-lg-6">
                     <Form name={process.env.FORM_NAME} onSubmit={handleSubmit} data-netlify="true" >
