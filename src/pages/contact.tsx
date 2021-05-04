@@ -6,6 +6,25 @@ import TOURING from "../../content/assets/touring.jpg";
 import { Form, Button } from "react-bootstrap";
 ReactGA.initialize(process.env.GOOGLE_ID);
 
+
+const Honeypot = () =>
+    <div className="hidden">
+        <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+            <p>
+                <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+            </p>
+            <p>
+                <label>Email: <input type="text" name="email" /></label>
+            </p>
+            <p>
+                <label>Message: <textarea name="message"></textarea></label>
+            </p>
+            <p>
+                <button type="submit">Send</button>
+            </p>
+        </form>
+    </div>
+
 export default function Contact(props) {
     const siteTitle = process.env.SITE_NAME;
     const [data, setData] = useState({ name: "", email: "", message: "" });
@@ -42,6 +61,7 @@ export default function Contact(props) {
                 title="Contact"
                 keywords={[`utah ski touring`, 'backcountry skiing utah', 'ski and snowboard instructor utah']}
             />
+            <Honeypot />
             <div className="row">
                 <div className="col-12 col-lg-6">
                     <Form name={process.env.FORM_NAME} onSubmit={handleSubmit} data-netlify="true" >

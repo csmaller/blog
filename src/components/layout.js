@@ -68,6 +68,10 @@ const LayoutContainer = styled.div`
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 10rem; 
+
+  .hidden {
+    display:none;
+  }
 `;
 
 const HeaderContainer = styled.div`
