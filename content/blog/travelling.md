@@ -71,7 +71,7 @@ I cry to the skies , “let it be”
 
 I feel like lying down in the rain
 
-Like ill find some answer to the pain
+Like I'll find some answer to the pain
 
 <br/>
 
