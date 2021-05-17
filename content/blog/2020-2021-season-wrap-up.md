@@ -24,4 +24,12 @@ I lost count how many days in the backcountry I had. A lot of dawn patrols, some
 
 IKON and Epic truly has knocked the resorts for a loop.  With the combination of traffic, congestion, lift lines not squeezing everyone together, mask mandates and more and more people moving to Utah, All the ski resorts  from PC to LCC are at their bursting point for capacity.  
 
-Locals are grumbling, Alta will be charging non-season pass holders and even those that want to BC ski up Emmas or Grizzly Gulch will have to pay to access their own public land.   It's a heated debate and one we will be watching.  There were times when the massive lines and traffic made me long for only a few years ago when Utah was still considered weird and not a good place to vacation and ski.  Those days are over, however, and we now have to accept that people from all over the world want to ski the Greatest Snow on Earth.   Pandoras Box is indeed open and we all need to figure out a way to make everyone happy.
+Locals are grumbling, Alta will be charging non-season pass holders and even those that want to BC ski up Emmas or Grizzly Gulch will have to pay to access their own public land.   It's a heated debate and one we will be watching.  
+
+There were times when the massive lines and traffic made me long for a few years ago when Utah was still considered weird and not a good place to vacation and ski.  Those days are over, however, and we now have to accept that people from all over the world want to ski the Greatest Snow on Earth.   Pandoras Box is indeed open and we all need to figure out a way to make everyone happy.  
+
+My season ended in a whimper however, as during a slushy fun Saturday of skiing my knee started to bother me.  It got worse as I was also running, biking, training at the gym, and climbing again and the stress caught up to me.   This weekend I had to watch from the sidelines as my friends got to ride the Bird one last weekend. 
+
+Here's to hoping next season gives us shorter lines, less traffic, better snow conditions and the reopening of some of our favorite Apres establishments (I'm looking at you Peruvian Bar and Gold Miners Daughter)
+
+See you on the slopes!
