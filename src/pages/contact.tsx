@@ -6,7 +6,6 @@ import TOURING from "../../content/assets/touring.jpg";
 import { Form, Button } from "react-bootstrap";
 ReactGA.initialize(process.env.GOOGLE_ID);
 
-
 const Honeypot = () =>
     <div className="hidden">
         <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
