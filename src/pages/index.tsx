@@ -1,29 +1,14 @@
 import React, { useEffect } from "react"
 import styled from "styled-components";
-import HeroImage from "../../content/assets/superior_rectangle.png";
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import ReactGA from 'react-ga';
+import { graphql } from "gatsby";
+import News from "../components/news";
+import Hero from "../components/hero";
+import HeaderText from "../components/headerText";
+
 ReactGA.initialize(process.env.GOOGLE_ID);
-
-const HeroContainer = styled.div`
-  background-size: cover;
-  padding: 1px 0px 0px 0px;
-  position: relative;
-
-  .container-hero-image-background {
-    width: 100%;
-    height: 100%;
-    top: 100px;
-    position: absolute;
-
-    .hero-image-source {
-      height: 100%;
-      width: 100%;
-      object-fit: cover;
-    }
-  }
-`;
 
 const MainContainer = styled.div`
   .overlay {
@@ -39,23 +24,23 @@ const MainContainer = styled.div`
   }
 `;
 
-function MainContent() {
+function MainContent(props) {
   return (
-    <div id="divOverlay" data-overlay-display="True" className="overlay bg-primary">
-      <h2 className="heading2 content white" >Welcome to Jackalope Adventures</h2>
+    <div className={props.className}>
+      <HeaderText type="h3">Welcome</HeaderText>
       <p>Whether it's learning skills on the mountain bike, 
           training hard for that big race, 
           learning how to rock climb,
           finding the deep untracked lines,
           or exploring one of the many great ski resorts in the Wasatch 
           Jackalope Adventures will be your guide.
-          
       </p>
     </div>
   );
 }
 
 export default function IndexPage(props) {
+  const news = props.data.news;
 
   useEffect(() => {
     if (typeof "window" !== "undefined") {
@@ -63,26 +48,34 @@ export default function IndexPage(props) {
     }
   }, [])
 
-  const siteTitle = "Jackalope Adventures"
+  const siteTitle = "Jackalope Adventures - Home Page"
 
   return (
-    <>
-      <HeroContainer>
-        <div className="container-hero-image-background">
-          <img src={HeroImage} className="hero-image-sournce" />
-        </div>
-      </HeroContainer>
-
       <Layout location={props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`jackalope adventures`, `jackalope`, `backcountry skiing`, `utah ski touring`]}
+          keywords={[`mountain bike lessons`, `enduro mountain bike lessons`, `bike lessons utah`,`jackalope adventures`, `jackalope`, `backcountry skiing`, `utah ski touring`]}
         />
-        <MainContainer>
-          <MainContent />
+        <Hero />
+        <MainContainer className="row position-relative">
+          <MainContent className="col-12 col-lg-6"/>
+          <News className="col-12 col-lg-6" news={news} />
         </MainContainer>
       </Layout>
-    </>
   );
-
 }
+
+export const pageQuery = graphql` query {
+  
+    news: mdx(frontmatter: {path: {eq: "news"}}) {
+      frontmatter {
+        date(formatString: "MMMM D,y")
+        description
+        path
+        title
+      }
+      body
+    }
+}
+
+`;

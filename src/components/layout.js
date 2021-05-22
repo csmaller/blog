@@ -6,7 +6,6 @@ import Logo from "../../content/assets/logo_no_bg.png";
 import styled from "styled-components";
 import { SocialIcon } from 'react-social-icons';
 import classNames from "classnames";
-
 import { Container } from "react-bootstrap";
 
 export default function Layout(props) {
@@ -33,14 +32,10 @@ export default function Layout(props) {
           <Link to="/contact/" disabled={location.pathname === "/contact/"}>
             <Button marginTop="35px">Contact</Button>
           </Link>
-          {/* <Link to="/blog/" disabled={location.pathname === "/blog/"}>
-            <Button marginTop="35px">Blog</Button>
-          </Link> */}
         </nav>
       </>
     );
   }
-
 
   return (
     <Container>
@@ -49,9 +44,9 @@ export default function Layout(props) {
           <HeaderContainer className="row mb-0">
             <Header />
           </HeaderContainer>
-          <div className={classNames(layoutClass, "row")}>
+          <MainContainer className={classNames(layoutClass, "row")}>
             <main className="px-2 px-lg-0">{children}</main>
-          </div>
+          </MainContainer>
         </LayoutContainer>
         <Footer className="align-content-center">
           <p><a href="https://www.jackalopeadventures.com">jackalopeadventures.com &trade;</a></p>
@@ -61,7 +56,6 @@ export default function Layout(props) {
       </Wrapper>
     </Container>
   )
-
 }
 
 const LayoutContainer = styled.div`
@@ -74,31 +68,33 @@ const LayoutContainer = styled.div`
   }
 `;
 
+const MainContainer = styled.div`
+  position:relative;
+`;
+
 const HeaderContainer = styled.div`
-  nav{
+  position:relative;
+  margin-left: -12%;
+  margin-right: -12%;
+  
+  nav {
     height: 40px;
   }
 `;
 
-const Nav = styled.div`
-
-`;
-
 const Wrapper = styled.div`
   min-height: 100vh;
-`
+`;
 
 const Footer = styled.footer`
-  text-align:center;
+  text-align: center;
   width: 100%;
   height: 2.5rem; 
-
-  a{
+  
+  a {
     box-shadow: none;
     margin-left:10px;
     height:30px !important;
     width:30px !important;
   }
 `
-
-
