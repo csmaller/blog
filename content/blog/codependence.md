@@ -18,13 +18,9 @@ co·de·pend·en·cy
 
 *noun*
 
-
-
 1. excessive emotional or psychological reliance on a partner, typically one who requires support on account of an illness or addiction
 
 <!--EndFragment-->
-
-
 
 I think people throw around the label of Codependent too much today.  People get suspicious of relationship where two people genuinely enjoy each other's company. There must be *something*  wrong there, right?  One person in the relationship is cooking for that other person? One person is driving the other to a doctor's appointment?  Too clingy.  Codependence. 
 
@@ -38,11 +34,7 @@ The codependent’s self-esteem and self-worth will come only from sacrificing t
 
 <!--EndFragment-->
 
-
-
 So there is Dependency and Codependency.   
-
-
 
 Codependency: Losing yourself in the relationship. Not having an identity other that "so and so's significant other".  Unhealthy expectations.  May stop seeing friends and family. Can be both people or just one person.
 
@@ -52,4 +44,4 @@ I have been in a relationship where my lover was codependent. It is frustrating 
 
 The non-codependent person in the relationship can sometimes take advantage of it, knowing they can get whatever they want from that person.  Which makes it that much more dangerous.  Put in the wrong hands this power can destroy lives.  I'm not being hyperbolic here.  I have seen the control put on someone and abused by some jerk to get what he or she wants.  
 
-Finding a healthy, loving, equal partner in a relationship without losing your sense of self should be the goal.  There are so many emotions and energy flowing between two people that change daily, hourly, by the second, it's very hard to keep track and stay in the flow of a 50/50 relationship but in the end I believe it's worth every second of it.
+Finding a healthy, loving, equal partner in a relationship without losing your sense of self should be the goal.  There are so many emotions and energy flowing between two people that change daily, hourly, by the second, it's very hard to keep track and stay in the flow of a 50/50 relationship but in the end I believe it's worth every second of work you put into it.
