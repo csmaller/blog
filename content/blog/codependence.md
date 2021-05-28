@@ -22,7 +22,7 @@ co·de·pend·en·cy
 
 <!--EndFragment-->
 
-I think people throw around the label of Codependent too much today.  People get suspicious of relationship where two people genuinely enjoy each other's company. There must be *something*  wrong there, right?  One person in the relationship is cooking for that other person? One person is driving the other to a doctor's appointment?  Too clingy.  Codependence. 
+I think people throw around the label of Codependent too much today.  People get suspicious of a relationship where two people genuinely enjoy each other's company. There must be *something*  wrong there, right?  One person in the relationship is cooking for that other person? One person is driving the other to a doctor's appointment?  Too clingy.  Codependence. 
 
 <!--StartFragment-->
 
