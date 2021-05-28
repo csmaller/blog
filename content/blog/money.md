@@ -8,11 +8,9 @@ Money get back, I'm alright Jack, keep your hands off my stack.
 
 Those Pink Floyd lyrics came to me this morning. Remembering watching the Pink Floyd masterpiece: The Wall.  In the movie little Pink is in school getting reprimanded by his headmaster who takes his book of poems and quotes Money from the Darkside of the Moon album (and not The Wall) and calls it complete rubbish. 
 
-I read this beautiful article from a dying woman in Australia:
+I read this beautiful article and posted it on my facebook from a dying woman in Australia:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcorey.smaller%2Fposts%2F10159429188430421&show_text=true&width=500" width="500" height="799" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
 
 If you get the chance, read it.  She knew what life was about. Absolutely heartbreaking to see someone so young and full of life leave this planet so early. 
 
