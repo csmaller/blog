@@ -52,6 +52,9 @@ export default function Layout(props) {
           <p><a href="https://www.jackalopeadventures.com">jackalopeadventures.com &trade;</a></p>
           <SocialIcon url="https://www.facebook.com/jackalopeAdventureTouring"/>
           <SocialIcon url="https://www.instagram.com/jackalopeadventures/" />
+          <Link to="/blog/" disabled={location.pathname === "/blog/"}>
+            Personal Blog
+          </Link>
         </Footer>
       </Wrapper>
     </Container>
@@ -90,7 +93,7 @@ const Footer = styled.footer`
   text-align: center;
   width: 100%;
   height: 2.5rem; 
-  
+
   a {
     box-shadow: none;
     margin-left:10px;
