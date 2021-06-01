@@ -6,11 +6,11 @@ description: news
 ---
 ![]()
 
-<!--StartFragment-->
+
 
 it was the best of times...it was the worst of times
 
-![touring](blob:https://www.jackalopeadventures.com/0411bc49-e0e2-47d6-93dc-465c78ca225e "touring")
+![touring](../assets/touring_1.jpeg "touring")
 
 Well, that's a wrap!
 
@@ -22,9 +22,9 @@ Here in Utah we had a man die on Dutch's Draw off 9990 chair at PCMR/The Canyons
 
 I lost count how many days in the backcountry I had. A lot of dawn patrols, some dusk patrols, and skipping the massive crowds for the solace of the skin track. A few of the guys in my group yearned for the big and steep lines abundant in the Wasatch but had to play it safe and ski the traditional Grizzly Gulch, Emmas, Cardiff, BearTrap zones. It got a little redundant but at least it wasn't deadly.
 
-![tour2](blob:https://www.jackalopeadventures.com/945aa73f-3c8b-454e-98d0-191078192b43 "touring2")
+![tour2](../assets/touring5.jpeg "touring2")
 
-![touring3](blob:https://www.jackalopeadventures.com/1f8810e3-6927-4c35-8e02-150d024e0ae2 "touring3")
+![touring3](../assets/touring3.jpeg "touring3")
 
 IKON and Epic truly has knocked the resorts for a loop. With the combination of traffic, congestion, lift lines not squeezing everyone together, mask mandates and more and more people moving to Utah, All the ski resorts from PC to LCC are at their bursting point for capacity.
 
@@ -37,5 +37,3 @@ My season ended in a whimper however, as during a slushy fun Saturday of skiing 
 Here's to hoping next season gives us shorter lines, less traffic, better snow conditions and the reopening of some of our favorite Apres establishments (I'm looking at you Peruvian Bar and Gold Miners Daughter)
 
 See you on the slopes!
-
-<!--EndFragment-->
