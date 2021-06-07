@@ -20,6 +20,12 @@ module.exports = {
     `gatsby-plugin-typescript`,
     `gatsby-plugin-feed-mdx`,
     {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -36,11 +42,11 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-mdx',
       options: {
-        gatsbyRemarkPlugins: [ `gatsby-remark-images` ],
-        plugins: [ `gatsby-remark-images` ],
+        gatsbyRemarkPlugins: [`gatsby-remark-images`],
+        plugins: [`gatsby-remark-images`],
         defaultLayouts: {
-            default: require.resolve("./src/components/layout.js"),
-          },
+          default: require.resolve("./src/components/layout.js"),
+        },
       }
     },
     {
