@@ -6,6 +6,8 @@ description: it was the best of times...it was the worst of times
 cover:
   - https://ucarecdn.com/80861f06-c346-4666-840f-4aa447e89e7a/
   - https://ucarecdn.com/043ee6f5-81f7-43bf-aa15-87c7268498f3/
+image:
+  - https://ucarecdn.com/9c1d2848-b741-427b-a356-6cc0fa9a8460/-/smart_resize/:two_dimensions/195874327_313691453741490_203264130425290292_n.jpg
 ---
 ![touring](../assets/touring_1.jpeg "touring")
 
