@@ -5,9 +5,6 @@ media_library:
   name: uploadcare
   config:
     publicKey: 60843127cafe4343ff93
-  settings:
-    autoFilename: true
-    defaultOperations: '/smart_resize/:two_dimensions/'
 media_folder: content/assets
 public_folder: ../assets
 publish_mode: editorial_workflow
