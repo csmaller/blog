@@ -5,6 +5,9 @@ media_library:
   name: uploadcare
   config:
     publicKey: 60843127cafe4343ff93
+  settings:
+    autoFilename: true
+    defaultOperations: '/smart_resize/:two_dimensions/'
 media_folder: content/assets
 public_folder: ../assets
 publish_mode: editorial_workflow
@@ -20,7 +23,7 @@ collections:
       - { name: title, label: Title }
       - { name: description, label: Description,  required: false}
       - { name: body, label: Body, widget: markdown }
-      - { name: cover, label: Cover Image, widget: image, required: false, 
+      - { name: image, label: Image, widget: image,
           media_library: {
             config: 
               { multiple: true }
