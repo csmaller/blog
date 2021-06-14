@@ -3,6 +3,11 @@ path: season-wrap-21
 date: 2021-05-17T13:27:17.634Z
 title: 2020/2021 Season Wrap Up
 description: it was the best of times...it was the worst of times
+cover:
+  - https://ucarecdn.com/80861f06-c346-4666-840f-4aa447e89e7a/
+  - https://ucarecdn.com/043ee6f5-81f7-43bf-aa15-87c7268498f3/
+image:
+  - https://ucarecdn.com/9c1d2848-b741-427b-a356-6cc0fa9a8460/-/smart_resize/:two_dimensions/195874327_313691453741490_203264130425290292_n.jpg
 ---
 ![touring](../assets/touring_1.jpeg "touring")
 
@@ -15,8 +20,6 @@ We saw more deaths due to avalanches in the Rocky Mountains than any other year 
 Here in Utah we had a man die on Dutch's Draw off 9990 chair at PCMR/The Canyons area. Just out of bounds.   A few days later another man, same angle, same area, died on Square Top.  Then a group of young kids died in Millcreek, skiing very low angle, mostly 30 degree stuff.  The extreme "black rose" on the [uac](www.utahavalanchecenter.com) site was a rarity I have never seen in 16 years of being in Utah. 
 
 I lost count how many days in the backcountry I had. A lot of dawn patrols, some dusk patrols, and skipping the massive crowds for the solace of the skin track.   A few of the guys in my group yearned for the big and steep lines abundant in the Wasatch but had to play it safe and ski the traditional Grizzly Gulch, Emmas, Cardiff, BearTrap zones.  It got a little redundant but at least it wasn't deadly. 
-
-
 
 ![tour2](../assets/touring_2.jpeg "touring2")
 
@@ -32,4 +35,10 @@ My season ended in a whimper however, as during a slushy fun Saturday of skiing 
 
 Here's to hoping next season gives us shorter lines, less traffic, better snow conditions and the reopening of some of our favorite Apres establishments (I'm looking at you Peruvian Bar and Gold Miners Daughter)
 
-See you on the slopes!
+As they say in Utah: You move here for the winters, but you stay for the summers!  So, it's off to ride bikes!
+
+See you real soon
+
+
+
+\-Corey
