@@ -6,13 +6,17 @@ description: "drinking "
 image:
   - https://ucarecdn.com/359329e1-2213-45a0-820b-8bfe096f2f6c/
 ---
+"Active, deep stage alcoholics don't have friends. They have hostages."
+
 Fifty years.  
 
-Fifty years I've been here in this life.  35 of which I spent pursuing the joys of alcohol.  In most parts of the world it is the social drug that binds us together, helps us loosen up,  lower inhibitions.  My crutch was beer, then additional whiskey.  I would like to say I hit rock bottom and crawled out with the help of some life changing event that made me a better person but it wasn't like that at all.   
+Fifty years I've been here in this life.  35 of which I spent pursuing the joys of alcohol.  In most parts of the world it is the social drug that binds us together, helps us loosen up,  lower inhibitions.  
+
+My crutch of choice was beer, then additional whiskey.  I would like to say I hit rock bottom and crawled out with the help of some life changing event that made me a better person but it wasn't like that at all.   
 
 I just got tired.
 
-Tired of hangovers. Tired of waking up somewhere I didn't want to be with people I didn't want to be with.   Tired of making excuses of job performance or having to call in sick because I'm so hungover.  Tired of missing powder days or enjoying camping trips to climbing destinations and mountain bike destinations.  Alcohol is the glue that bound together campfire nights, social events, gigs with my band, apres ski, travel.  Everything I did was rewarded with a beer or five.  
+Tired of hangovers. Tired of waking up somewhere I didn't want to be with people I didn't want to be with.   Tired of making excuses of job performance or having to call in sick because I'm so hungover.  Tired of missing powder days or enjoying camping trips to climbing destinations and mountain bike destinations.  Alcohol is the glue that bound together campfire nights, social events, gigs with my band, apres ski, travel.  Everything I did was rewarded with a beer or five.  I did not see a good night out without alcohol.  I could not see a show, or go out to dinner, or a first date, or play music without it. 
 
 The thing is I cannot just drink "a beer".  You see, I come from a long line of alcoholics.  And by long line i mean my biological father and his father: a jewish russian immigrant who did of liver failure whom I never met.  
 
@@ -34,15 +38,13 @@ Not forgetting words or parts of songs and not screaming obscenities into a micr
 
 We finished the gig and the inevitable bro handshake/high five stuff that happens at the end of a successful night by young tourists in a ski town is just not appealing at all.  
 
-I want to run off stage, get my shit and go home and shower and go to bed.   I want to get up early and ride my bike, or ski powder, or go to the gym. My body and brain has been wracked long enough by substances and I am just tired. 
+I want to run off stage, get my shit and go home and shower and go to bed.   I want to get up early and ride my bike, or ski powder, or go to the gym. My body and brain has been wracked long enough by substances. 
 
-I'm just so tired of that life. It is hopefully behind me now but the specter of alcohol haunts me daily. Here's a soda water toast to not going back and moving forward with purpose in this lifetime.   
+I'm just so tired of that life. It is hopefully behind me now but the specter of alcohol haunts me daily.  I still have a glass of wine at dinner sometimes but that's it.  Here's a soda water toast to not going back and moving forward with purpose in this lifetime.   
 
 My sincere apologies to everyone i have ever offended in my drunken haze.  That's not me anymore and I am sorry. Truly sorry. 
 
 Mahalo
-
-
 
 \-Corey 
 
