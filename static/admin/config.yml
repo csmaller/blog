@@ -20,7 +20,7 @@ collections:
       - { name: title, label: Title }
       - { name: description, label: Description,  required: false}
       - { name: body, label: Body, widget: markdown }
-      - { name: image, label: Image, widget: image,
+      - { name: image, label: Image, widget: image,required: false,
           media_library: {
             config: 
               { multiple: true }
